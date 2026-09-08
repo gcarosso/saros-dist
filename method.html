@@ -33,63 +33,68 @@ ul{padding-left:20px;margin:0 0 12px}li{margin:0 0 7px;color:var(--ink-2)}li b{c
 table{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0 12px}
 th{text-align:left;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:500;padding:6px;border-bottom:1px solid var(--line)}
 td{padding:6px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--ink-2)}td:first-child{color:var(--ink);white-space:nowrap}
+table.cmp td:first-child{white-space:normal}
+code{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-size:13px;color:var(--ink)}
+p b{color:var(--ink);font-weight:500}
 .foot{margin-top:40px;padding-top:14px;border-top:1px solid var(--line);font-size:13px;color:var(--ink-3)}
 </style>
 </head>
 <body>
 <main>
 <div class="top"><a href="/">SAROS</a> · method</div>
-<h1>SAROS clinical trial readout calendar, 2026–2028</h1>
-<p class="lede">SAROS is a clinical trial readout calendar. It lists every industry-sponsored Phase 1–3 trial registered on ClinicalTrials.gov with a primary-completion date in 2026, 2027 or 2028, more than ten thousand of them, and joins each trial to what public filings say about its sponsor: cash and runway, who holds the stock, insider trades, FDA decision dates, private funding rounds and NIH awards. It is built from public sources only and refreshed every week. <a href="/">Open the calendar</a>.</p>
+<h1>SAROS — clinical trials and the companies behind them</h1>
+<p class="lede">A clinical trial is easy enough to look up. Working out what else is testing the same mechanism, which company sits behind the sponsor name, what its filings say about funding, and whether the dates have moved takes more assembly. The information is spread across registries, regulatory filings, grant records, and usually a spreadsheet holding the pieces together.</p>
+<p>I built SAROS to do more of that assembly in one place. It indexes industry-sponsored Phase 1–3 trials on ClinicalTrials.gov with registered primary-completion dates in 2026–2028, then connects them to public records about their sponsors. The calendar is the starting point; underneath it are trial designs, mechanism tags, company financials, selected institutional holdings, insider transactions, regulatory events, and disclosed private funding.</p>
+<p>It is free to use, runs in the browser, and is built from public sources. The useful part is being able to move between the biology, the company, and the evidence without rebuilding the same set of searches each time. <a href="/">Open SAROS</a>.</p>
 
-<h2>What it is for</h2>
-<p>A trial readout is a scheduled alignment: a registered date on which a company, a drug and a market meet. SAROS does not predict outcomes. It keeps the ledger of when those alignments fall, what is publicly known about each party, and how the dates drift from one week to the next. It is written for specialist biotech investors and for anyone who needs to know what reads out when.</p>
+<h2>Where it saves work</h2>
+<p><b>Build a landscape without starting another spreadsheet.</b> Filter by phase, indication, modality, target, sponsor type, enrollment, or date window. The calendar, charts, and trial list work from the same selection, so you can move from a broad question to the individual studies behind it. An investor can assemble a list for diligence; a research team can see which approaches are already being tested and where its own program sits.</p>
+<p><b>Follow a trial into its company context.</b> Open a dossier to put the study design and mechanism beside available financial, ownership, and regulatory records. This cuts down the repeated work of finding the sponsor, resolving its corporate name, and collecting the same filings. The source links remain available for checking the associations and reading the detail.</p>
+<p><b>Find related programs.</b> Target and mechanism tags let you search across records whose titles use different drug names or development codes. Programs &amp; peers compares sponsors by their registered trial portfolios. That is a useful starting set for a closer comparison of mechanisms, populations, and endpoints; similarity in a trial portfolio does not establish therapeutic equivalence.</p>
+<p><b>Review changes rather than rereading the whole registry.</b> Successive snapshots identify new records and changes in dates or status. Watchlists keep a set of trials together, and CSV export carries the selected rows into your own analysis. Live refresh updates registry records when available; financial and ownership data retain their own reporting periods.</p>
+<p>The time saving comes from reusing the search, matching, filtering, and comparison work. SAROS gets the relevant records onto the same screen so more of the effort can go toward interpreting them.</p>
 
-<h2>What you can do with it</h2>
-<ul>
-<li><b>See what reads out when.</b> The timeline and calendar hold every trial by registered primary-completion month. Narrow by phase, status, therapeutic area, modality, sponsor tier, drug target or enrollment; click any bar, cell or sponsor to focus on it.</li>
-<li><b>Open a trial's dossier.</b> The next action and the rule behind it, readout confidence with its reasons, the sponsor's cash and runway against the date, who holds the stock, insider trades, the drug's mechanism with a curated note, an editable risk-adjusted NPV sketch, and every competing trial in the same indication.</li>
-<li><b>Search by target.</b> KRAS, GLP-1, CD19 and hundreds more, tagged by a curated mechanism lexicon.</li>
-<li><b>Check the FDA calendar.</b> PDUFA, advisory-committee and resubmission dates exactly as companies disclosed them in SEC filings, each linked to the filing and the sentence it came from. Dates that moved keep their history.</li>
-<li><b>Look inside private sponsors.</b> Roughly two thirds of sponsors are not listed. Where they have filed Regulation D placements, SAROS shows amounts raised, dates, investor counts and named officers; NIH awards show non-dilutive funding.</li>
-<li><b>Track what changed.</b> Each weekly build is diffed against the last. Slipped, firmed and new trials are filter flags, and the dossier shows the before and after.</li>
-</ul>
-
-<h2>How to read a row</h2>
-<ul>
-<li><b>Readout</b> is the registered primary-completion date. June and December pile-ups are sponsor placeholders and should be read as "sometime that half".</li>
-<li><b>Confidence</b> is a transparent rule score, 0–100, of whether the date will hold. It is for triage, not for pricing.</li>
-<li><b>Prior</b> is the historical share of trials at this phase that advance, oncology and non-oncology separately, from Wong, Siah and Lo (2019). A base rate, not a view.</li>
-<li><b>Impact and Action</b> are how much a readout could matter and the next step an ordered rule list suggests: Pass, Wait, Review flow, Diligence, Size or Monitor. Every score shows the rule that fired.</li>
-<li><b>Float</b> is the sponsor's SEC-reported public float, the market-cap proxy for listed names.</li>
-</ul>
-
-<h2>Where the numbers come from</h2>
-<table>
-<tr><th>Source</th><th>Contributes</th><th>Cadence</th></tr>
-<tr><td>ClinicalTrials.gov API v2</td><td>the trial universe: dates, status, design, enrollment, sites, interventions, summaries</td><td>weekly</td></tr>
-<tr><td>SEC EDGAR full-text search</td><td>PDUFA, advisory-committee and resubmission dates from 8-K, 6-K, 10-Q and 10-K filings</td><td>weekly</td></tr>
-<tr><td>SEC XBRL frames</td><td>cash, R&amp;D spend, net income, revenue, public float, shares</td><td>weekly</td></tr>
-<tr><td>SEC EDGAR 13F-HR</td><td>positions of about thirty biotech-specialist funds</td><td>quarterly</td></tr>
-<tr><td>SEC insider-transactions data sets</td><td>Form 4 open-market buys and sells</td><td>quarterly</td></tr>
-<tr><td>SEC Form D data sets</td><td>Regulation D placements by biotech and pharma issuers</td><td>quarterly</td></tr>
-<tr><td>NIH RePORTER</td><td>NIH research awards</td><td>weekly</td></tr>
-<tr><td>openFDA Drugs@FDA</td><td>approval actions</td><td>weekly</td></tr>
-<tr><td>Wong, Siah &amp; Lo (2019)</td><td>phase-transition base rates</td><td>static</td></tr>
+<h2>How it compares with other tools</h2>
+<p>SAROS overlaps with several familiar research workflows. Its scope is the public information that can be assembled around a registered trial; dedicated platforms add their own coverage, curation, and analysis.</p>
+<table class="cmp">
+<tr><th>Tool or workflow</th><th>What overlaps</th><th>Where the scope differs</th></tr>
+<tr><td>ClinicalTrials.gov, EDGAR, NIH RePORTER, and a spreadsheet</td><td>Trial searches, filing lookups, sponsor matching, and lists of programs to follow</td><td>SAROS combines the covered records and carries a selection between views. The original sources remain the place to verify a result and read the full record.</td></tr>
+<tr><td><a href="https://www.benzinga.com/fda-calendar/estimated-dates" rel="noopener">Benzinga's FDA calendar</a></td><td>Browsing upcoming regulatory events by company and drug</td><td>SAROS adds a registry-based trial landscape and sponsor context. Its main date field is primary completion, which must be distinguished from an announced catalyst.</td></tr>
+<tr><td><a href="https://www.evaluate.com/solutions/biomedtracker/" rel="noopener">Biomedtracker</a></td><td>Exploring development programs and clinical or regulatory events</td><td>Biomedtracker includes proprietary approval metrics and analyst commentary. SAROS uses public records and explicit heuristics; it does not reproduce that analytical coverage.</td></tr>
+<tr><td><a href="https://www.citeline.com/en/products-services/clinical/trialtrove" rel="noopener">Citeline Trialtrove</a></td><td>Filtering trials and comparing the clinical landscape</td><td>Trialtrove provides curated intelligence for trial planning and benchmarking. SAROS offers a narrower view of registered studies within its date window, connected to company records.</td></tr>
+<tr><td><a href="https://pitchbook.com/products/desktop" rel="noopener">PitchBook</a></td><td>Looking at companies, investors, and financing activity</td><td>SAROS surfaces available Form D filings, NIH awards, and selected public-market holdings. It does not supply a comprehensive private-market database, valuations, or cap tables.</td></tr>
 </table>
-<p>The Method tab inside the calendar carries the exact query and pull date behind every number.</p>
+<p>For an initial landscape or a list of programs to investigate, SAROS can replace much of the manual assembly across public sites. For analyst assessments, comprehensive deal coverage, or specialized trial planning, those broader platforms provide capabilities beyond its scope.</p>
 
-<h2>What it will not tell you</h2>
-<ul>
-<li>Registered dates lag real readouts. A primary-completion date is when a readout can first exist, not when it will land; open-label early-phase programs drift the most.</li>
-<li>Private-round valuations, terms, cap tables and private burn are not public. They are shown as unknown, never estimated.</li>
-<li>Vendor likelihood-of-approval scores, paid consensus, deal terms and prescription data are out of scope by design.</li>
-</ul>
+<h2>What the dates and scores mean</h2>
+<p><b>Readout.</b> The calendar uses the registered primary-completion date: the completion of data collection for the primary outcome measures. A company may report interim results earlier or publish its main analysis later. An <code>ACTUAL</code> registry date confirms the recorded completion event, not an announcement date. Month-only dates and concentrations at half-year boundaries warrant checking against company guidance.</p>
+<p><b>Regulatory events.</b> PDUFA, advisory-committee, and resubmission events are extracted from company filings, with links to the source passages. Check the asset, indication, and event in the filing; an extracted date can be associated with the wrong nearby drug name.</p>
+<p><b>Confidence.</b> A rules-based score summarizing evidence about the registered date. It is not a calibrated probability that results will arrive on schedule or that the trial will succeed.</p>
+<p><b>Prior.</b> An approximate historical phase-transition rate, separating oncology from non-oncology. It describes advancement from a phase, not necessarily the cumulative probability of approval. The rNPV sketch is editable; its approval probability and commercial assumptions need to be set for the question being modeled.</p>
+<p><b>Financial context.</b> Cash, short-term investments, income, R&amp;D spending, and public float come from SEC records where a sponsor can be matched. Public float is a dated proxy for company size, not a live market capitalization. The current runway calculation divides available cash and short-term investments by an annualized accounting loss; it is a rough screen rather than a cash-flow forecast.</p>
+<p><b>Impact and Action.</b> These summarize an ordered set of rules over the available inputs. They help identify records to examine, but do not incorporate a complete assessment of trial quality, valuation, or portfolio exposure.</p>
 
-<h2>Why "SAROS"</h2>
-<p>A saros is the cycle of 18 years, 11 days and 8 hours after which the Sun, Earth and Moon return to the same alignment, so an eclipse repeats with nearly the same geometry. Babylonian astronomers found it by keeping a long, honest ledger of dates; by the time of Thales it could be used to say when the next eclipse would come, without any theory of why. That is the stance taken here. The eclipse in the mark is the moment of the readout, and the moons beneath the timeline are the calendar it runs on.</p>
+<h2>Sources and refresh</h2>
+<table>
+<tr><th>Source</th><th>Used for</th></tr>
+<tr><td>ClinicalTrials.gov API v2</td><td>Trial dates, status, design, enrollment, sites, interventions, and summaries</td></tr>
+<tr><td>SEC EDGAR filings</td><td>Disclosed regulatory events and their supporting passages</td></tr>
+<tr><td>SEC XBRL data</td><td>Available financial statements, public float, and share counts</td></tr>
+<tr><td>SEC 13F filings</td><td>Reported holdings of the selected funds covered by SAROS</td></tr>
+<tr><td>SEC insider-transaction datasets</td><td>Reported open-market purchases and sales</td></tr>
+<tr><td>SEC Form D datasets</td><td>Disclosed securities offerings, amounts sold, and related filing details</td></tr>
+<tr><td>NIH RePORTER</td><td>Research awards associated with matched organizations</td></tr>
+<tr><td>openFDA Drugs@FDA</td><td>Approval actions</td></tr>
+<tr><td>Wong, Siah &amp; Lo (2019)</td><td>Historical phase-transition reference rates</td></tr>
+</table>
+<p>The published build refreshes weekly, using the available source datasets. The in-app Method tab identifies queries and retrieval dates. Reporting periods still matter: a newly retrieved quarterly holding is a record of that quarter, and a Form D filing describes a disclosed offering rather than a company's complete financing history.</p>
+<p>Coverage depends on registration, disclosure, and successful matching. Missing information can mean no public record, a record outside the dataset, or an unresolved association. It should not be read as proof that a company has no funding, no investors, or no competing program.</p>
 
-<p class="foot">SAROS is built and maintained by <a href="https://gcarosso.bio/">Giovanni Carosso</a>. Source on <a href="https://github.com/gcarosso/saros">GitHub</a>, Apache-2.0. Nothing on this site is investment advice.</p>
+<h2>Why SAROS</h2>
+<p>The name comes from the repeating eclipse cycle. The calendar and eclipse mark borrow that idea of keeping track of events over time. In drug development the dates are considerably less cooperative, which is part of the reason to keep the record.</p>
+
+<p><a href="/">Open the calendar</a></p>
+<p class="foot">Built and maintained by <a href="https://gcarosso.bio/">Giovanni Carosso</a>. <a href="https://github.com/gcarosso/saros">Source on GitHub</a>, Apache-2.0. Nothing on this site is investment advice.</p>
 </main>
 </body>
 </html>

@@ -1,0 +1,4712 @@
+{
+ "generated": "2026-09-26T14:45:21.334381Z",
+ "since": "2026-09-20",
+ "n": 322,
+ "items": [
+  {
+   "id": "NCT05132075",
+   "kind": "firmed",
+   "title": "Study of JDQ443 in Comparison With Docetaxel in Participants With Locally Advanced or Metastatic KRAS G12C Mutant Non-small Cell Lung Cancer",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P3",
+   "pcd": "2026-09-03",
+   "what": [
+    "primary completion: 2026-08-25 \u2192 2026-09-03",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT05132075",
+   "registry": "https://clinicaltrials.gov/study/NCT05132075"
+  },
+  {
+   "id": "NCT07841496",
+   "kind": "new",
+   "title": "ALT001 in Patients With Ischemic Stroke in the Sequelae Stage",
+   "sponsor": "Darwin Origin (Hubei) Biopharmaceutical Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2027-06-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841496",
+   "registry": "https://clinicaltrials.gov/study/NCT07841496"
+  },
+  {
+   "id": "NCT06981091",
+   "kind": "status",
+   "title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Parallel-group Phase 2 Clinical Trial to Evaluate the Efficacy and Safety of XH-S004 Tablets in Pati",
+   "sponsor": "Shanghai Fosun Pharmaceutical Industrial Development Co. Ltd.",
+   "phase": "P2",
+   "pcd": "2027-01-08",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 231 \u2192 234"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06981091",
+   "registry": "https://clinicaltrials.gov/study/NCT06981091"
+  },
+  {
+   "id": "NCT06843590",
+   "kind": "status",
+   "title": "A Study to Evaluate the Safety and Effectiveness of ALKS 2680 in Subjects With Idiopathic Hypersomnia",
+   "sponsor": "Alkermes, Inc.",
+   "phase": "P2",
+   "pcd": "2026-11",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06843590",
+   "registry": "https://clinicaltrials.gov/study/NCT06843590"
+  },
+  {
+   "id": "NCT07735104",
+   "kind": "status",
+   "title": "The First in Human Study of QLS2319 in Healthy Subjects and Cancer Cachexia",
+   "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-10-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07735104",
+   "registry": "https://clinicaltrials.gov/study/NCT07735104"
+  },
+  {
+   "id": "NCT06887127",
+   "kind": "status",
+   "title": "A Long-term Extension Clinical Study of TLL-018 in Patients With Rheumatoid Arthritis",
+   "sponsor": "Hangzhou Highlightll Pharmaceutical Co., Ltd",
+   "phase": "P3",
+   "pcd": "2026-12-31",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06887127",
+   "registry": "https://clinicaltrials.gov/study/NCT06887127"
+  },
+  {
+   "id": "NCT06738979",
+   "kind": "firmed",
+   "title": "A Clinical Study Comparing Semaglutide Injection and Wegovy\u00ae for Weight Management in Obese Subjects",
+   "sponsor": "Chia Tai Tianqing Pharmaceutical Group Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-03-07",
+   "what": [
+    "primary completion: 2026-07 \u2192 2026-03-07",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06738979",
+   "registry": "https://clinicaltrials.gov/study/NCT06738979"
+  },
+  {
+   "id": "NCT07765706",
+   "kind": "status",
+   "title": "A Study to Assess the Safety, Tolerability and Pharmacokinetics (PK) of INS1033 in Healthy Participants",
+   "sponsor": "Insmed Incorporated",
+   "phase": "P1",
+   "pcd": "2027-03-22",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07765706",
+   "registry": "https://clinicaltrials.gov/study/NCT07765706"
+  },
+  {
+   "id": "NCT07170150",
+   "kind": "status",
+   "title": "A Clinical Trial of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P3",
+   "pcd": "2028-02-16",
+   "what": [
+    "primary completion: 2028-06-07 \u2192 2028-02-16",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 800 \u2192 1060",
+    "primary outcome text: Change from baseline to Week 72 in Clinical Dementia Rating, Sum of Boxes (CDR-SB) \u2192 Change From Baseline to Week 72 in Clinical Dementia Rating, Sum of Boxes (CDR-SB)"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07170150",
+   "registry": "https://clinicaltrials.gov/study/NCT07170150"
+  },
+  {
+   "id": "NCT07841860",
+   "kind": "new",
+   "title": "A Study on the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of HRS-1596 Tablets in Healthy Participants With a Single Dose and in Obese Participa",
+   "sponsor": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841860",
+   "registry": "https://clinicaltrials.gov/study/NCT07841860"
+  },
+  {
+   "id": "NCT07298395",
+   "kind": "changed",
+   "title": "Study of ENV-294 in Adults With Moderate-to-Severe Atopic Dermatitis",
+   "sponsor": "Enveda Therapeutics",
+   "phase": "P2",
+   "pcd": "2026-12",
+   "what": [
+    "enrollment: 60 \u2192 105"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07298395",
+   "registry": "https://clinicaltrials.gov/study/NCT07298395"
+  },
+  {
+   "id": "NCT06347133",
+   "kind": "status",
+   "title": "Phase 3 Study of Plozasiran in Adults With Hypertriglyceridemia",
+   "sponsor": "Arrowhead Pharmaceuticals",
+   "phase": "P3",
+   "pcd": "2026-06-01",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06347133",
+   "registry": "https://clinicaltrials.gov/study/NCT06347133"
+  },
+  {
+   "id": "NCT07783789",
+   "kind": "slipped",
+   "title": "NAI Plus Standard of Care Compared With Placebo Plus Standard of Care in Critically Ill Adults With Sepsis",
+   "sponsor": "ImmunityBio, Inc.",
+   "phase": "P2",
+   "pcd": "2028-05-12",
+   "what": [
+    "primary completion: 2027-10-12 \u2192 2028-05-12",
+    "enrollment: 49 \u2192 50",
+    "primary outcome text: 28-Day Survival Rate \u2192 28-day all-cause mortality rate"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07783789",
+   "registry": "https://clinicaltrials.gov/study/NCT07783789"
+  },
+  {
+   "id": "NCT04925479",
+   "kind": "changed",
+   "title": "Study to Determine the Dose and Safety of Asciminib in Pediatric Patients With Chronic Myeloid Leukemia",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P1/P2",
+   "pcd": "2027-09-02",
+   "what": [
+    "primary completion: 2027-09-21 \u2192 2027-09-02"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT04925479",
+   "registry": "https://clinicaltrials.gov/study/NCT04925479"
+  },
+  {
+   "id": "NCT07645248",
+   "kind": "status",
+   "title": "A Study to Compare Safety of 4 Weeks Exposure to Propellants Hydrofluoroalkane 1,1-difluoroethane (HFA-152a) and HFA-1,1,1,2-tetrafluoroethane (134a)",
+   "sponsor": "GlaxoSmithKline",
+   "phase": "P3",
+   "pcd": "2027-02-25",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07645248",
+   "registry": "https://clinicaltrials.gov/study/NCT07645248"
+  },
+  {
+   "id": "NCT07758101",
+   "kind": "status",
+   "title": "A Study to Evaluate the Safety of SHR-7590 in Chinese Healthy Participants and in Patients With Moderate-to-severe Inflammatory Bowel Disease",
+   "sponsor": "Guangdong Hengrui Pharmaceutical Co., Ltd",
+   "phase": "P1",
+   "pcd": "2027-01",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING",
+    "enrollment: 64 \u2192 88"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07758101",
+   "registry": "https://clinicaltrials.gov/study/NCT07758101"
+  },
+  {
+   "id": "NCT06989437",
+   "kind": "changed",
+   "title": "A Study to Learn About the Medicine Ponsegromab in Adults With Cancer of the Pancreas Which Has Spread and Caused Significant Body Weight Loss and Fatigue",
+   "sponsor": "Pfizer",
+   "phase": "P2/P3",
+   "pcd": "2028-01-23",
+   "what": [
+    "primary completion: 2028-01-17 \u2192 2028-01-23"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06989437",
+   "registry": "https://clinicaltrials.gov/study/NCT06989437"
+  },
+  {
+   "id": "NCT07277660",
+   "kind": "status",
+   "title": "A Dose-ranging Study to Evaluate the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Galvokimig in Adult Study Participants With Atopic Dermatitis",
+   "sponsor": "UCB Biopharma SRL",
+   "phase": "P2",
+   "pcd": "2027-05-17",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 160 \u2192 165"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07277660",
+   "registry": "https://clinicaltrials.gov/study/NCT07277660"
+  },
+  {
+   "id": "NCT06234397",
+   "kind": "changed",
+   "title": "Dose Escalation and Expansion Study of BH3120 Alone or With Pembrolizuamb in Advanced or Metastatic Solid Tumors",
+   "sponsor": "Hanmi Pharmaceutical Company Limited",
+   "phase": "P1",
+   "pcd": "2027-08",
+   "what": [
+    "enrollment: 245 \u2192 216"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06234397",
+   "registry": "https://clinicaltrials.gov/study/NCT06234397"
+  },
+  {
+   "id": "NCT07842978",
+   "kind": "new",
+   "title": "Clinical Study Examining the Control of Plaque and Gingivitis",
+   "sponsor": "Colgate Palmolive",
+   "phase": "P3",
+   "pcd": "2027-04",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842978",
+   "registry": "https://clinicaltrials.gov/study/NCT07842978"
+  },
+  {
+   "id": "NCT07035652",
+   "kind": "status",
+   "title": "The Phase Ib Clinical Trial of the XH-S004 Tablet in Patients With Chronic Obstructive Pulmonary Disease (COPD) to Evaluate Its Safety, Tolerability, Pharmacoki",
+   "sponsor": "Shanghai Fosun Pharmaceutical Industrial Development Co. Ltd.",
+   "phase": "P1",
+   "pcd": "2026-11-13",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07035652",
+   "registry": "https://clinicaltrials.gov/study/NCT07035652"
+  },
+  {
+   "id": "NCT07223333",
+   "kind": "slipped",
+   "title": "A Study of PATAS Using Single Ascending Doses in Healthy Volunteers and Multiple Ascending Doses in Diabetic Subjects",
+   "sponsor": "AdipoPharma LLC",
+   "phase": "P1",
+   "pcd": "2027-05-30",
+   "what": [
+    "primary completion: 2026-07-30 \u2192 2027-05-30",
+    "primary outcome text: Safety -- 1A \u2192 Phase 1B: Safety"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07223333",
+   "registry": "https://clinicaltrials.gov/study/NCT07223333"
+  },
+  {
+   "id": "NCT07842393",
+   "kind": "new",
+   "title": "A Study of IBI3042 in Healthy Adult Participants",
+   "sponsor": "Fortvita Biologics (USA)Inc.",
+   "phase": "P1",
+   "pcd": "2027-02-03",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842393",
+   "registry": "https://clinicaltrials.gov/study/NCT07842393"
+  },
+  {
+   "id": "NCT07840378",
+   "kind": "new",
+   "title": "Evaluating Autologous Platelet-Rich Fibrin Plasma for Chronic Diabetic Foot Ulcers",
+   "sponsor": "Tiger Biosciences, LLC.",
+   "phase": "P1/P2",
+   "pcd": "2027-06",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840378",
+   "registry": "https://clinicaltrials.gov/study/NCT07840378"
+  },
+  {
+   "id": "NCT06785012",
+   "kind": "changed",
+   "title": "A Study to Explore the Efficacy of JNJ-89495120 in the Treatment of Major Depressive Disorder",
+   "sponsor": "Janssen Research & Development, LLC",
+   "phase": "P2",
+   "pcd": "2026-06-25",
+   "what": [
+    "enrollment: 107 \u2192 105"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06785012",
+   "registry": "https://clinicaltrials.gov/study/NCT06785012"
+  },
+  {
+   "id": "NCT07299955",
+   "kind": "firmed",
+   "title": "A Phase 1 Comparative Study to Evaluate Pharmacokinetics, Immunogenicity, Safety and Tolerability of Bmab3000 and Herceptin Hylecta\u00ae After a Single 600 mg SC In",
+   "sponsor": "Biocon Biologics UK PLC",
+   "phase": "P1",
+   "pcd": "2026-09-09",
+   "what": [
+    "primary completion: 2026-06-30 \u2192 2026-09-09",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07299955",
+   "registry": "https://clinicaltrials.gov/study/NCT07299955"
+  },
+  {
+   "id": "NCT07841925",
+   "kind": "new",
+   "title": "A Study of BL-M08D in Patients With Locally Advanced or Metastatic Melanoma and Other Solid Tumors",
+   "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841925",
+   "registry": "https://clinicaltrials.gov/study/NCT07841925"
+  },
+  {
+   "id": "NCT07013474",
+   "kind": "changed",
+   "title": "A Study to Learn About the Study Medicine Ibuzatrelvir in Adults With COVID-19 Who Are Severely Immunocompromised",
+   "sponsor": "Pfizer",
+   "phase": "P3",
+   "pcd": "2027-09-28",
+   "what": [
+    "primary completion: 2027-09-27 \u2192 2027-09-28"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07013474",
+   "registry": "https://clinicaltrials.gov/study/NCT07013474"
+  },
+  {
+   "id": "NCT07104162",
+   "kind": "firmed",
+   "title": "A Study to Investigate Safety and Pharmacokinetics of Intravenous Cefiderocol/Xeruborbactam in Participants With Renal Impairment",
+   "sponsor": "Qpex Biopharma, Inc.",
+   "phase": "P1",
+   "pcd": "2026-09-04",
+   "what": [
+    "primary completion: 2026-07-30 \u2192 2026-09-04",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07104162",
+   "registry": "https://clinicaltrials.gov/study/NCT07104162"
+  },
+  {
+   "id": "NCT06679140",
+   "kind": "changed",
+   "title": "A Study to Learn About a Study Medicine Called Ibuzatrelvir in Adult and Adolescent Patients With COVID-19 Who Are Not Hospitalized But Are at Risk For Severe D",
+   "sponsor": "Pfizer",
+   "phase": "P3",
+   "pcd": "2027-10-01",
+   "what": [
+    "primary completion: 2027-10-03 \u2192 2027-10-01"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06679140",
+   "registry": "https://clinicaltrials.gov/study/NCT06679140"
+  },
+  {
+   "id": "NCT07619443",
+   "kind": "firmed",
+   "title": "A Clinical Study of MK-7262 and Enlicitide in Healthy Participants (MK-7262-003)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2026-09-05",
+   "what": [
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07619443",
+   "registry": "https://clinicaltrials.gov/study/NCT07619443"
+  },
+  {
+   "id": "NCT07833436",
+   "kind": "new",
+   "title": "A Trial to Evaluate the Safety, Immunogenicity and the Optimal Dose of MOPEVAC-Las Vaccine Candidate Against Lassa Fever",
+   "sponsor": "Institut Pasteur",
+   "phase": "P1",
+   "pcd": "2028-04",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833436",
+   "registry": "https://clinicaltrials.gov/study/NCT07833436"
+  },
+  {
+   "id": "NCT07841977",
+   "kind": "new",
+   "title": "Study of Seladelpar and Cilofexor in Participants With Primary Biliary Cholangitis",
+   "sponsor": "Gilead Sciences",
+   "phase": "P2",
+   "pcd": "2028-06",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841977",
+   "registry": "https://clinicaltrials.gov/study/NCT07841977"
+  },
+  {
+   "id": "NCT07842497",
+   "kind": "new",
+   "title": "A Study of Efficacy and Safety of IBI3011 in Subjects With Acute Gouty Arthritis",
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "phase": "P2",
+   "pcd": "2027-05-11",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842497",
+   "registry": "https://clinicaltrials.gov/study/NCT07842497"
+  },
+  {
+   "id": "NCT07843108",
+   "kind": "new",
+   "title": "Effect of Rimonabant on Hand Function in Patients With Spinal Cord Injury",
+   "sponsor": "Sinfatin S.L",
+   "phase": "P1/P2",
+   "pcd": "2027-08",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07843108",
+   "registry": "https://clinicaltrials.gov/study/NCT07843108"
+  },
+  {
+   "id": "NCT07841899",
+   "kind": "new",
+   "title": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-CP-02)",
+   "sponsor": "Ollin Biosciences, Inc.",
+   "phase": "P3",
+   "pcd": "2028-12-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841899",
+   "registry": "https://clinicaltrials.gov/study/NCT07841899"
+  },
+  {
+   "id": "NCT05276310",
+   "kind": "changed",
+   "title": "A Study of IMC-002 in Patients With Advanced Cancer Failed to Standard Therapy",
+   "sponsor": "ImmuneOncia Therapeutics Inc.",
+   "phase": "P1",
+   "pcd": "2027-12-30",
+   "what": [
+    "primary completion: 2027-12-17 \u2192 2027-12-30",
+    "enrollment: 62 \u2192 86"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT05276310",
+   "registry": "https://clinicaltrials.gov/study/NCT05276310"
+  },
+  {
+   "id": "NCT06929624",
+   "kind": "status",
+   "title": "A Phase 3 Clinical Study of SHR-A1912 Combined With R-GemOx Versus R-GemOx in Diffuse Large B-cell Lymphoma",
+   "sponsor": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2027-03",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 280 \u2192 282"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06929624",
+   "registry": "https://clinicaltrials.gov/study/NCT06929624"
+  },
+  {
+   "id": "NCT07840326",
+   "kind": "new",
+   "title": "A Phase 2a Study of SUN-627 in Participants With Non-Active Secondary Progressive and Primary Progressive Multiple Sclerosis (SPMS/PPMS)",
+   "sponsor": "Sundance Biosciences, Inc.",
+   "phase": "P2",
+   "pcd": "2027-06",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840326",
+   "registry": "https://clinicaltrials.gov/study/NCT07840326"
+  },
+  {
+   "id": "NCT06793397",
+   "kind": "slipped",
+   "title": "A Study of a Deuterated Psilocin Analog (CYB003) in Humans With Major Depressive Disorder",
+   "sponsor": "Cybin IRL Limited",
+   "phase": "P3",
+   "pcd": "2027-06-07",
+   "what": [
+    "primary completion: 2027-03-18 \u2192 2027-06-07"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06793397",
+   "registry": "https://clinicaltrials.gov/study/NCT06793397"
+  },
+  {
+   "id": "NCT07169578",
+   "kind": "status",
+   "title": "A Study of Trontinemab in Participants With Early Symptomatic Alzheimer's Disease",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P3",
+   "pcd": "2028-02-16",
+   "what": [
+    "primary completion: 2028-06-07 \u2192 2028-02-16",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 800 \u2192 1101",
+    "primary outcome text: Change from baseline to Week 72 in Clinical Dementia Rating, Sum of Boxes (CDR-SB) \u2192 Change From Baseline to Week 72 in Clinical Dementia Rating, Sum of Boxes (CDR-SB)"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07169578",
+   "registry": "https://clinicaltrials.gov/study/NCT07169578"
+  },
+  {
+   "id": "NCT04862468",
+   "kind": "slipped",
+   "title": "Perivenous Dexamethasone Therapy: Examining Reduction of Inflammation After Thrombus Removal to Yield Benefit in Acute Femoropopliteal DVT",
+   "sponsor": "Mercator MedSystems, Inc.",
+   "phase": "P2",
+   "pcd": "2026-12-31",
+   "what": [
+    "primary completion: 2026-08-01 \u2192 2026-12-31"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT04862468",
+   "registry": "https://clinicaltrials.gov/study/NCT04862468"
+  },
+  {
+   "id": "NCT07842276",
+   "kind": "new",
+   "title": "Utidelone Capsules Combined With Doxorubicin for Advanced Soft Tissue Sarcoma",
+   "sponsor": "Beijing Biostar Pharmaceuticals Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2028-09-20",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842276",
+   "registry": "https://clinicaltrials.gov/study/NCT07842276"
+  },
+  {
+   "id": "NCT07277270",
+   "kind": "slipped",
+   "title": "A Study of GSK5764227 in Combination With Standard of Care (SoC) or Other Agents in Participants With Advanced Solid Tumors",
+   "sponsor": "GlaxoSmithKline",
+   "phase": "P1",
+   "pcd": "2028-02-14",
+   "what": [
+    "primary completion: 2026-07-13 \u2192 2028-02-14",
+    "enrollment: 84 \u2192 83"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07277270",
+   "registry": "https://clinicaltrials.gov/study/NCT07277270"
+  },
+  {
+   "id": "NCT06618001",
+   "kind": "firmed",
+   "title": "A Study of JNJ-89853413 for Relapsed or Refractory Acute Myeloid Leukemia or Myelodysplastic Neoplasms",
+   "sponsor": "Janssen Research & Development, LLC",
+   "phase": "P1",
+   "pcd": "2026-09-02",
+   "what": [
+    "primary completion: 2026-11-16 \u2192 2026-09-02",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06618001",
+   "registry": "https://clinicaltrials.gov/study/NCT06618001"
+  },
+  {
+   "id": "NCT07744802",
+   "kind": "status",
+   "title": "Evaluate the Effect of Vimseltinib on P-glycoprotein (P-gp) Inhibition in Healthy Male Participants",
+   "sponsor": "Deciphera Pharmaceuticals, LLC",
+   "phase": "P1",
+   "pcd": "2026-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07744802",
+   "registry": "https://clinicaltrials.gov/study/NCT07744802"
+  },
+  {
+   "id": "NCT07842640",
+   "kind": "new",
+   "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ASC35 Injection in Participants With Obesity or Overweight",
+   "sponsor": "Ascletis Pharma (China) Co., Limited",
+   "phase": "P1",
+   "pcd": "2027-06",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842640",
+   "registry": "https://clinicaltrials.gov/study/NCT07842640"
+  },
+  {
+   "id": "NCT07843056",
+   "kind": "new",
+   "title": "A Clinical Trial to Compare the Efficacy and Safety of WAS123 Versus Daily Aripiprazole in the Maintenance Treatment of Patients With Schizophrenia.",
+   "sponsor": "EMS",
+   "phase": "P2",
+   "pcd": "2026-01-20",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07843056",
+   "registry": "https://clinicaltrials.gov/study/NCT07843056"
+  },
+  {
+   "id": "NCT07842016",
+   "kind": "new",
+   "title": "Phase 3 Study of Intravitreal OLN324 in Adults With Diabetic Macular Edema (DME) (OLN324-CP-03)",
+   "sponsor": "Ollin Biosciences, Inc.",
+   "phase": "P3",
+   "pcd": "2028-12-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842016",
+   "registry": "https://clinicaltrials.gov/study/NCT07842016"
+  },
+  {
+   "id": "NCT06605105",
+   "kind": "slipped",
+   "title": "Phase III Long-term Extension Trial to Assess Safety and Efficacy of CYB003 in MDD (EXTEND)",
+   "sponsor": "Cybin IRL Limited",
+   "phase": "P3",
+   "pcd": "2028-06-06",
+   "what": [
+    "primary completion: 2028-03-15 \u2192 2028-06-06"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06605105",
+   "registry": "https://clinicaltrials.gov/study/NCT06605105"
+  },
+  {
+   "id": "NCT06754085",
+   "kind": "firmed",
+   "title": "Study of 18F-Florastamin PET/CT Imaging in Patients With Suspected Recurrence of Prostate Cancer",
+   "sponsor": "HTA Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-06-11",
+   "what": [
+    "primary completion: 2026-01-01 \u2192 2026-06-11",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06754085",
+   "registry": "https://clinicaltrials.gov/study/NCT06754085"
+  },
+  {
+   "id": "NCT05629689",
+   "kind": "new",
+   "title": "A Study to Evaluate GEH200520/GEH200521 (18F) Safety and Tolerability When Used for PET Scans in Patients With Solid Tumour Malignancies",
+   "sponsor": "GE Healthcare",
+   "phase": "P1",
+   "pcd": "2026-08-04",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT05629689",
+   "registry": "https://clinicaltrials.gov/study/NCT05629689"
+  },
+  {
+   "id": "NCT07841678",
+   "kind": "new",
+   "title": "A Phase III Clinical Study of Jinpei Growth Hormone Injection in the Treatment of Short Stature Children With Small for Gestational Age (SGA)",
+   "sponsor": "Changchun GeneScience Pharmaceutical Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2028-09",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841678",
+   "registry": "https://clinicaltrials.gov/study/NCT07841678"
+  },
+  {
+   "id": "NCT07802964",
+   "kind": "status",
+   "title": "A Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics, Immunogenicity, and Pharmacodynamics of HRS-4139 in Healthy Participants",
+   "sponsor": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2027-03",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07802964",
+   "registry": "https://clinicaltrials.gov/study/NCT07802964"
+  },
+  {
+   "id": "NCT06618664",
+   "kind": "slipped",
+   "title": "A Clinical Study of SHR-8068 Combined With Adebrelimab and Bevacizumab Versus Sintilimab Combined With Bevacizumab for the Treatment of Advanced Hepatocellular ",
+   "sponsor": "Suzhou Suncadia Biopharmaceuticals Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-10",
+   "what": [
+    "primary completion: 2026-09 \u2192 2026-10"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06618664",
+   "registry": "https://clinicaltrials.gov/study/NCT06618664"
+  },
+  {
+   "id": "NCT07835633",
+   "kind": "new",
+   "title": "Single Ascending Dose Study of ACC085 Injection in Healthy Chinese Adults",
+   "sponsor": "Jiangsu Aidea Pharmaceutical Group Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-07-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07835633",
+   "registry": "https://clinicaltrials.gov/study/NCT07835633"
+  },
+  {
+   "id": "NCT07663630",
+   "kind": "changed",
+   "title": "A Study to Learn About the Study Medicine Called Ponsegromab in Adults With Lung Cancer-Associated Significant Body Weight Loss",
+   "sponsor": "Pfizer",
+   "phase": "P1",
+   "pcd": "2028-05-06",
+   "what": [
+    "primary completion: 2028-05-05 \u2192 2028-05-06"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07663630",
+   "registry": "https://clinicaltrials.gov/study/NCT07663630"
+  },
+  {
+   "id": "NCT06800313",
+   "kind": "slipped",
+   "title": "Study of HLD-0915 (JNJ-101556143) in Patients With Metastatic Prostate Cancer",
+   "sponsor": "Janssen Research & Development, LLC",
+   "phase": "P1/P2",
+   "pcd": "2028-08-17",
+   "what": [
+    "primary completion: 2028-07-11 \u2192 2028-08-17"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06800313",
+   "registry": "https://clinicaltrials.gov/study/NCT06800313"
+  },
+  {
+   "id": "NCT06817577",
+   "kind": "status",
+   "title": "NG004 in Spinal Cord Injury Patients",
+   "sponsor": "NovaGo Therapeutics AG",
+   "phase": "P1",
+   "pcd": "2027-03",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06817577",
+   "registry": "https://clinicaltrials.gov/study/NCT06817577"
+  },
+  {
+   "id": "NCT07036523",
+   "kind": "status",
+   "title": "A Study to Find Out Whether BI 765423 Has an Effect on Lung Function in People With Idiopathic Pulmonary Fibrosis (IPF) With or Without Standard Treatment",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P2",
+   "pcd": "2027-03-11",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 71 \u2192 81"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07036523",
+   "registry": "https://clinicaltrials.gov/study/NCT07036523"
+  },
+  {
+   "id": "NCT07840612",
+   "kind": "new",
+   "title": "A Study to Assess the Effects of Probenecid on the Pharmacokinetics of Mirdametinib and Its Metabolites in Healthy Participants",
+   "sponsor": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+   "phase": "P1",
+   "pcd": "2026-11-17",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840612",
+   "registry": "https://clinicaltrials.gov/study/NCT07840612"
+  },
+  {
+   "id": "NCT07405177",
+   "kind": "firmed",
+   "title": "A Study of MK-7240 in Healthy Participants (MK-7240-009)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2026-09-15",
+   "what": [
+    "primary completion: 2026-09-03 \u2192 2026-09-15",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07405177",
+   "registry": "https://clinicaltrials.gov/study/NCT07405177"
+  },
+  {
+   "id": "NCT06020144",
+   "kind": "status",
+   "title": "A Phase 3 Study Comparing TLL-018 to Tofacitinib in RA Subjects With Inadequate Response or Intolerance to bDMARDs",
+   "sponsor": "Hangzhou Highlightll Pharmaceutical Co., Ltd",
+   "phase": "P3",
+   "pcd": "2026-01-15",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06020144",
+   "registry": "https://clinicaltrials.gov/study/NCT06020144"
+  },
+  {
+   "id": "NCT07278336",
+   "kind": "new",
+   "title": "A Study to Assess Adverse Events, Change in Disease Activity and How Intravenous (IV) ABBV901 Moves Through the Body Alone or in Combination With Other Anticanc",
+   "sponsor": "AbbVie",
+   "phase": "P1",
+   "pcd": "2028-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07278336",
+   "registry": "https://clinicaltrials.gov/study/NCT07278336"
+  },
+  {
+   "id": "NCT07144072",
+   "kind": "slipped",
+   "title": "Safety and Tolerability Study of Mesenchymal Stem Cells, HeXell-2020, in Elderly Subjects With Mild to Moderate Frailty Syndrome",
+   "sponsor": "Hexun Biosciences Co., LTD.",
+   "phase": "P1",
+   "pcd": "2028-12-31",
+   "what": [
+    "primary completion: 2028-01-31 \u2192 2028-12-31"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07144072",
+   "registry": "https://clinicaltrials.gov/study/NCT07144072"
+  },
+  {
+   "id": "NCT05647122",
+   "kind": "firmed",
+   "title": "First in Human Study of AZD9592 in Solid Tumors",
+   "sponsor": "AstraZeneca",
+   "phase": "P1",
+   "pcd": "2026-06-16",
+   "what": [
+    "primary completion: 2028-08-03 \u2192 2026-06-16",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "enrollment: 167 \u2192 190"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT05647122",
+   "registry": "https://clinicaltrials.gov/study/NCT05647122"
+  },
+  {
+   "id": "NCT07476326",
+   "kind": "status",
+   "title": "Pharmacokinetics, Safety, and Immunogenicity Comparison of Bmab1700 and Opdivo\u00ae as Adjuvant Monotherapy in Participants With Melanoma",
+   "sponsor": "Biocon Biologics UK PLC",
+   "phase": "P1",
+   "pcd": "2027-08-16",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07476326",
+   "registry": "https://clinicaltrials.gov/study/NCT07476326"
+  },
+  {
+   "id": "NCT07430397",
+   "kind": "slipped",
+   "title": "A Single Ascending Dose Study to Assess the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of CITY-FXI in Healthy Adults, Adults With FV Leiden or ",
+   "sponsor": "City Therapeutics",
+   "phase": "P1",
+   "pcd": "2028-03",
+   "what": [
+    "primary completion: 2027-08 \u2192 2028-03",
+    "enrollment: 128 \u2192 182"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07430397",
+   "registry": "https://clinicaltrials.gov/study/NCT07430397"
+  },
+  {
+   "id": "NCT07840820",
+   "kind": "new",
+   "title": "Phase II/III Study of FXS5626 in Participants With Non-segmental Vitiligo",
+   "sponsor": "Shanghai Fosun Pharmaceutical Industrial Development Co. Ltd.",
+   "phase": "P2/P3",
+   "pcd": "2027-11-10",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840820",
+   "registry": "https://clinicaltrials.gov/study/NCT07840820"
+  },
+  {
+   "id": "NCT05673057",
+   "kind": "status",
+   "title": "Study of MP0533 in Patients Acute Myeloid Leukemia or Myelodysplastic Syndrome",
+   "sponsor": "Molecular Partners AG",
+   "phase": "P1",
+   "pcd": "2026-05-29",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 249 \u2192 80"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT05673057",
+   "registry": "https://clinicaltrials.gov/study/NCT05673057"
+  },
+  {
+   "id": "NCT07841093",
+   "kind": "new",
+   "title": "Phase III Study of JMKX003142 Tablet to Treat Renal Edema",
+   "sponsor": "Jemincare",
+   "phase": "P3",
+   "pcd": "2028-04-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841093",
+   "registry": "https://clinicaltrials.gov/study/NCT07841093"
+  },
+  {
+   "id": "NCT07376200",
+   "kind": "slipped",
+   "title": "Single-ascending Dose Study of HEC-151 Injection",
+   "sponsor": "Sunshine Lake Pharma Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-12-31",
+   "what": [
+    "primary completion: 2026-09-05 \u2192 2026-12-31"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07376200",
+   "registry": "https://clinicaltrials.gov/study/NCT07376200"
+  },
+  {
+   "id": "NCT07759245",
+   "kind": "status",
+   "title": "A Study of Brenipatide (LY3537031) in Adult Participants With Moderate-to-Severe Chronic Obstructive Pulmonary Disease (COPD)",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P2",
+   "pcd": "2028-05",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07759245",
+   "registry": "https://clinicaltrials.gov/study/NCT07759245"
+  },
+  {
+   "id": "NCT07266441",
+   "kind": "status",
+   "title": "A Study of JNJ-79635322 in Participants With Relapsed or Refractory Multiple Myeloma",
+   "sponsor": "Janssen Research & Development, LLC",
+   "phase": "P2",
+   "pcd": "2027-06-14",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 157 \u2192 168"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07266441",
+   "registry": "https://clinicaltrials.gov/study/NCT07266441"
+  },
+  {
+   "id": "NCT07336472",
+   "kind": "status",
+   "title": "A Study of IBI3003 in Subjects With Relapsed or Refractory Multiple Myeloma",
+   "sponsor": "Fortvita Biologics (USA)Inc.",
+   "phase": "P1/P2",
+   "pcd": "2027-06-30",
+   "what": [
+    "primary completion: 2027-12-31 \u2192 2027-06-30",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07336472",
+   "registry": "https://clinicaltrials.gov/study/NCT07336472"
+  },
+  {
+   "id": "NCT07840729",
+   "kind": "new",
+   "title": "Evaluate the Safety and Tolerability of Multiple Doses of JMT206 Injection in Obese Participants",
+   "sponsor": "Shanghai JMT-Bio Inc.",
+   "phase": "P1",
+   "pcd": "2027-02-28",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840729",
+   "registry": "https://clinicaltrials.gov/study/NCT07840729"
+  },
+  {
+   "id": "NCT06525220",
+   "kind": "status",
+   "title": "A Phase 3 Study to Evaluate Petosemtamab Plus Pembrolizumab vs Pembrolizumab in First-line Treatment of Head and Neck Cancer (LiGeR - HN1)",
+   "sponsor": "Merus B.V.",
+   "phase": "P3",
+   "pcd": "2028-01",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 700 \u2192 699"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06525220",
+   "registry": "https://clinicaltrials.gov/study/NCT06525220"
+  },
+  {
+   "id": "NCT07729462",
+   "kind": "slipped",
+   "title": "A Study to Learn About the Study Medicine Called Rimegepant in Adults When Used for the Prevention of Chronic Migraine",
+   "sponsor": "Pfizer",
+   "phase": "P3",
+   "pcd": "2028-10-21",
+   "what": [
+    "primary completion: 2028-09-12 \u2192 2028-10-21",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07729462",
+   "registry": "https://clinicaltrials.gov/study/NCT07729462"
+  },
+  {
+   "id": "NCT06182124",
+   "kind": "changed",
+   "title": "A Study to Learn About the Safety and Immune Response of a New Pneumococcal Vaccine in Adults",
+   "sponsor": "Pfizer",
+   "phase": "P1/P2",
+   "pcd": "2026-05-12",
+   "what": [
+    "enrollment: 1363 \u2192 1710"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06182124",
+   "registry": "https://clinicaltrials.gov/study/NCT06182124"
+  },
+  {
+   "id": "NCT04626479",
+   "kind": "firmed",
+   "title": "Substudy 03A: A Study of Immune and Targeted Combination Therapies in Participants With First Line (1L) Renal Cell Carcinoma (MK-3475-03A)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1/P2",
+   "pcd": "2026-08-10",
+   "what": [
+    "primary completion: 2026-08-21 \u2192 2026-08-10",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 400 \u2192 393"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT04626479",
+   "registry": "https://clinicaltrials.gov/study/NCT04626479"
+  },
+  {
+   "id": "NCT07831226",
+   "kind": "new",
+   "title": "Safety and Immunogenicity of the Recombinant Malaria Vaccines in Healthy Adults Aged 18-50 Years",
+   "sponsor": "Guangzhou Patronus Biotech Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-04",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07831226",
+   "registry": "https://clinicaltrials.gov/study/NCT07831226"
+  },
+  {
+   "id": "NCT07841990",
+   "kind": "new",
+   "title": "Substudy-01: A Study of Long-Acting HIV-1 Treatments Taken by Mouth in People With HIV-1 With Undetectable Virus Levels",
+   "sponsor": "Gilead Sciences",
+   "phase": "P2",
+   "pcd": "2027-08",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07841990",
+   "registry": "https://clinicaltrials.gov/study/NCT07841990"
+  },
+  {
+   "id": "NCT06305416",
+   "kind": "new",
+   "title": "A Efficacy and Safety Study of Ranibizumab 10mg/ml Injection (Incepta) in Patients With Diabetic Macular Edema",
+   "sponsor": "Incepta Pharmaceuticals Ltd",
+   "phase": "P3",
+   "pcd": "2026-03-10",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06305416",
+   "registry": "https://clinicaltrials.gov/study/NCT06305416"
+  },
+  {
+   "id": "NCT07842991",
+   "kind": "new",
+   "title": "Clinical Evaluation of a Toothpaste for Dental Plaque Reduction and Prevention of Gum Problems",
+   "sponsor": "Colgate Palmolive",
+   "phase": "P3",
+   "pcd": "2027-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07842991",
+   "registry": "https://clinicaltrials.gov/study/NCT07842991"
+  },
+  {
+   "id": "NCT04626518",
+   "kind": "firmed",
+   "title": "Substudy 03B: A Study of Immune and Targeted Combination Therapies in Participants With Second Line Plus (2L+) Renal Cell Carcinoma (MK-3475-03B/KEYMAKER-U03)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1/P2",
+   "pcd": "2026-07-23",
+   "what": [
+    "primary completion: 2026-08-21 \u2192 2026-07-23",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 370 \u2192 263"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT04626518",
+   "registry": "https://clinicaltrials.gov/study/NCT04626518"
+  },
+  {
+   "id": "NCT07295951",
+   "kind": "firmed",
+   "title": "A Study of 14C-Bleximenib (Radiolabeled) in Participants With Acute Leukemia",
+   "sponsor": "Janssen Research & Development, LLC",
+   "phase": "P1",
+   "pcd": "2026-07-21",
+   "what": [
+    "primary completion: 2026-09-29 \u2192 2026-07-21",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 10 \u2192 6"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT07295951",
+   "registry": "https://clinicaltrials.gov/study/NCT07295951"
+  },
+  {
+   "id": "NCT06799065",
+   "kind": "changed",
+   "title": "First-in-Human Study of ATX-295, an Oral Inhibitor of KIF18A, as Monotherapy and in Combination With Anticancer Therapy in Patients With Advanced or Metastatic ",
+   "sponsor": "Accent Therapeutics",
+   "phase": "P1/P2",
+   "pcd": "2027-04-30",
+   "what": [
+    "enrollment: 90 \u2192 218",
+    "primary outcome text: Recommended phase 2 dose (RP2D) and/or maximum tolerated dose (MTD) of ATX-295 \u2192 Recommended phase 2 dose (RP2D) and/or maximum tolerated dose (MTD) of ATX-295 as a monotherapy and in combination with bevacizumab (or biosimilar)"
+   ],
+   "date": "2026-09-25",
+   "url": "https://saros.gcarosso.bio/#t=NCT06799065",
+   "registry": "https://clinicaltrials.gov/study/NCT06799065"
+  },
+  {
+   "id": "NCT07838220",
+   "kind": "new",
+   "title": "A Study of IBI3016 in Japanese Participants",
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "phase": "P1",
+   "pcd": "2027-01-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838220",
+   "registry": "https://clinicaltrials.gov/study/NCT07838220"
+  },
+  {
+   "id": "NCT05457283",
+   "kind": "changed",
+   "title": "A Study to Learn More About How Safe the Study Treatment Finerenone is in Long-term Use When Taken With an ACE Inhibitor or Angiotensin Receptor Blocker Over 18",
+   "sponsor": "Bayer",
+   "phase": "P3",
+   "pcd": "2028-08-07",
+   "what": [
+    "primary completion: 2028-08-01 \u2192 2028-08-07"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05457283",
+   "registry": "https://clinicaltrials.gov/study/NCT05457283"
+  },
+  {
+   "id": "NCT07824934",
+   "kind": "status",
+   "title": "HEC-921 Injection as Monotherapy and in Combination With Antineoplastic Therapies in Patients With Advanced Malignant Solid Tumors",
+   "sponsor": "Sunshine Lake Pharma Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-05",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07824934",
+   "registry": "https://clinicaltrials.gov/study/NCT07824934"
+  },
+  {
+   "id": "NCT06851858",
+   "kind": "firmed",
+   "title": "Efficacy, Safety and Tolerability of AZD6234 in Participants Living With Overweight or Obesity With Type 2 Diabetes Who Are on a Stable Dose of GLP-1 Receptor A",
+   "sponsor": "AstraZeneca",
+   "phase": "P2",
+   "pcd": "2026-05-26",
+   "what": [
+    "primary completion: 2026-05-27 \u2192 2026-05-26",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06851858",
+   "registry": "https://clinicaltrials.gov/study/NCT06851858"
+  },
+  {
+   "id": "NCT07465718",
+   "kind": "status",
+   "title": "Trientine Tetrahydrochloride Administered Once a Day for the First Line Treatment of Wilson's Disease Patients.",
+   "sponsor": "Orphalan",
+   "phase": "P3",
+   "pcd": "2028-02",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07465718",
+   "registry": "https://clinicaltrials.gov/study/NCT07465718"
+  },
+  {
+   "id": "NCT06018337",
+   "kind": "firmed",
+   "title": "A Study of DB-1303/BNT323 vs Investigator's Choice Chemotherapy in HER2-Low, Hormone Receptor Positive Metastatic Breast Cancer (DYNASTY-Breast02)",
+   "sponsor": "DualityBio Inc.",
+   "phase": "P3",
+   "pcd": "2026-08-12",
+   "what": [
+    "primary completion: 2026-06 \u2192 2026-08-12",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06018337",
+   "registry": "https://clinicaltrials.gov/study/NCT06018337"
+  },
+  {
+   "id": "NCT06799286",
+   "kind": "firmed",
+   "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of BMS-986489 in Chinese Participants With Relapsed/Refractory Small Ce",
+   "sponsor": "Bristol-Myers Squibb",
+   "phase": "P1",
+   "pcd": "2026-09-09",
+   "what": [
+    "primary completion: 2027-05-26 \u2192 2026-09-09",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06799286",
+   "registry": "https://clinicaltrials.gov/study/NCT06799286"
+  },
+  {
+   "id": "NCT07839936",
+   "kind": "new",
+   "title": "A Study of VERVE-102 (LY4636581) in Adults With or at High Risk for Cardiovascular Disease",
+   "sponsor": "Verve Therapeutics, Inc.",
+   "phase": "P2",
+   "pcd": "2028-08",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07839936",
+   "registry": "https://clinicaltrials.gov/study/NCT07839936"
+  },
+  {
+   "id": "NCT06402201",
+   "kind": "slipped",
+   "title": "First in Human Study of CDR404 in HLA-A*02:01 Participants With MAGE-A4 Expressing Solid Tumors",
+   "sponsor": "CDR-Life AG",
+   "phase": "P1",
+   "pcd": "2026-12-30",
+   "what": [
+    "primary completion: 2026-06-30 \u2192 2026-12-30"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06402201",
+   "registry": "https://clinicaltrials.gov/study/NCT06402201"
+  },
+  {
+   "id": "NCT07838987",
+   "kind": "new",
+   "title": "A Clinical Trial to Evaluate MK-4208/TERN-701 in Healthy Adult Participants (MK-4208-001/TERN701-1014)",
+   "sponsor": "Terns, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+   "phase": "P1",
+   "pcd": "2026-06-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838987",
+   "registry": "https://clinicaltrials.gov/study/NCT07838987"
+  },
+  {
+   "id": "NCT07840027",
+   "kind": "new",
+   "title": "Assessment of the Safety, Immunogenicity, and Pharmacodynamics of TRB-001 in Patients With Early Idiopathic Parkinson's Disease",
+   "sponsor": "Tridem Bioscience FlexCo",
+   "phase": "P1",
+   "pcd": "2028-09",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840027",
+   "registry": "https://clinicaltrials.gov/study/NCT07840027"
+  },
+  {
+   "id": "NCT07830719",
+   "kind": "new",
+   "title": "Dose-finding Study of YMI024 to Assess Efficacy, Safety, and Tolerability in Adults With Stable Coronary Artery Disease and Elevated hsCRP",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P2",
+   "pcd": "2027-10-19",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830719",
+   "registry": "https://clinicaltrials.gov/study/NCT07830719"
+  },
+  {
+   "id": "NCT06465303",
+   "kind": "new",
+   "title": "A Study of RTP-026 to Assess Safety, Tolerability and Efficacy in Patients With ST-Elevation Myocardial Infarction (STEMI)",
+   "sponsor": "ResoTher Pharma",
+   "phase": "P2",
+   "pcd": "2026-07-02",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06465303",
+   "registry": "https://clinicaltrials.gov/study/NCT06465303"
+  },
+  {
+   "id": "NCT07840105",
+   "kind": "new",
+   "title": "This is a Phase 2 Study to Evaluate the Efficacy, Safety, and Tolerability of Intravenous Ertapenem-zidebactam Versus Ceftazidime-Avibactam in the Treatment of ",
+   "sponsor": "Wockhardt",
+   "phase": "P2",
+   "pcd": "2027-09-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07840105",
+   "registry": "https://clinicaltrials.gov/study/NCT07840105"
+  },
+  {
+   "id": "NCT05949125",
+   "kind": "changed",
+   "title": "Phase 1 Study of Allo-RevCAR01-T-CD123 in Patients With Selected CD123 Positive Hematologic Malignancies (1b Dose Expansion)",
+   "sponsor": "AvenCell Europe GmbH",
+   "phase": "P1",
+   "pcd": "2027-05",
+   "what": [
+    "enrollment: 80 \u2192 37",
+    "primary outcome text: To assess the safety profile of the treatment \u2192 Safety and tolerability"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05949125",
+   "registry": "https://clinicaltrials.gov/study/NCT05949125"
+  },
+  {
+   "id": "NCT04115761",
+   "kind": "slipped",
+   "title": "Evaluate the Efficacy and Safety of ADCV01 as an Add-On Treatment for Primary Glioblastoma Multiforme (GBM) Patients",
+   "sponsor": "Ever Supreme Bio Technology Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2027-12-30",
+   "what": [
+    "primary completion: 2026-12-30 \u2192 2027-12-30"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT04115761",
+   "registry": "https://clinicaltrials.gov/study/NCT04115761"
+  },
+  {
+   "id": "NCT06714591",
+   "kind": "firmed",
+   "title": "Evaluate the Safety, Tolerability, Pharmacokinetic Profile, Efficacy of Bl-M11D1",
+   "sponsor": "SystImmune Inc.",
+   "phase": "P1",
+   "pcd": "2026-09-16",
+   "what": [
+    "primary completion: 2026-12-31 \u2192 2026-09-16",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 TERMINATED",
+    "enrollment: 120 \u2192 52",
+    "why stopped:  \u2192 Sponsor prioritization of other development portfolio"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06714591",
+   "registry": "https://clinicaltrials.gov/study/NCT06714591"
+  },
+  {
+   "id": "NCT05552976",
+   "kind": "slipped",
+   "title": "A Study to Evaluate Mezigdomide in Combination With Carfilzomib and Dexamethasone (MeziKD) Versus Carfilzomib and Dexamethasone (Kd) in Participants With Relaps",
+   "sponsor": "Bristol-Myers Squibb",
+   "phase": "P3",
+   "pcd": "2026-09-28",
+   "what": [
+    "primary completion: 2026-07-18 \u2192 2026-09-28"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05552976",
+   "registry": "https://clinicaltrials.gov/study/NCT05552976"
+  },
+  {
+   "id": "NCT07838194",
+   "kind": "new",
+   "title": "Clinical Trial of NXT007 for the Prophylactic Treatment of Hemophilia A in Infants and Children",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P3",
+   "pcd": "2028-09-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838194",
+   "registry": "https://clinicaltrials.gov/study/NCT07838194"
+  },
+  {
+   "id": "NCT07473973",
+   "kind": "firmed",
+   "title": "ENERGY 2: Evaluation of the Efficacy and Safety of INZ-701 in Infants With ENPP1 Deficiency",
+   "sponsor": "Inozyme Pharma",
+   "phase": "P3",
+   "pcd": "2026-08-31",
+   "what": [
+    "primary completion: 2026-10-14 \u2192 2026-08-31",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 TERMINATED",
+    "enrollment: 12 \u2192 2",
+    "why stopped:  \u2192 Following review of the totality of program data, the sponsor decided to discontinue development of INZ701. The decision was not related to safety."
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07473973",
+   "registry": "https://clinicaltrials.gov/study/NCT07473973"
+  },
+  {
+   "id": "NCT07837973",
+   "kind": "new",
+   "title": "Study to Assess the Effect and Safety of ALV-100 on Maintenance of Weight Loss",
+   "sponsor": "Alveus Therapeutics, Inc.",
+   "phase": "P2",
+   "pcd": "2027-08-24",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07837973",
+   "registry": "https://clinicaltrials.gov/study/NCT07837973"
+  },
+  {
+   "id": "NCT06920901",
+   "kind": "firmed",
+   "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetics (PK), and Immunogenicity of APG777 in Adults With Asthma",
+   "sponsor": "Apogee Therapeutics, Inc.",
+   "phase": "P1",
+   "pcd": "2026-09-17",
+   "what": [
+    "primary completion: 2026-09 \u2192 2026-09-17",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06920901",
+   "registry": "https://clinicaltrials.gov/study/NCT06920901"
+  },
+  {
+   "id": "NCT05407324",
+   "kind": "status",
+   "title": "Dazucorilant in Patients With Amyotrophic Lateral Sclerosis",
+   "sponsor": "Corcept Therapeutics",
+   "phase": "P2",
+   "pcd": "2026-10",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05407324",
+   "registry": "https://clinicaltrials.gov/study/NCT05407324"
+  },
+  {
+   "id": "NCT05861128",
+   "kind": "new",
+   "title": "Extension Study to Evaluate Safety and Efficacy of Jaktinib in Patients With Active Ankylosing Spondylitis(AS)",
+   "sponsor": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+   "phase": "P3",
+   "pcd": "2026-03-04",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05861128",
+   "registry": "https://clinicaltrials.gov/study/NCT05861128"
+  },
+  {
+   "id": "NCT05152147",
+   "kind": "firmed",
+   "title": "A Study of Zanidatamab in Combination With Chemotherapy Plus or Minus Tislelizumab in Patients With HER2-positive Advanced or Metastatic Gastric and Esophageal ",
+   "sponsor": "Jazz Pharmaceuticals",
+   "phase": "P3",
+   "pcd": "2026-07-15",
+   "what": [
+    "primary completion: 2026-09-30 \u2192 2026-07-15",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05152147",
+   "registry": "https://clinicaltrials.gov/study/NCT05152147"
+  },
+  {
+   "id": "NCT06062420",
+   "kind": "firmed",
+   "title": "A Platform Study of Novel Immunotherapy Combinations as First-Line Treatment in Participants With PD-L1 Positive Recurrent/Metastatic Squamous Cell Carcinoma of",
+   "sponsor": "GlaxoSmithKline",
+   "phase": "P2",
+   "pcd": "2026-09-10",
+   "what": [
+    "primary completion: 2026-09-01 \u2192 2026-09-10",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06062420",
+   "registry": "https://clinicaltrials.gov/study/NCT06062420"
+  },
+  {
+   "id": "NCT07737717",
+   "kind": "status",
+   "title": "A Study to Investigate the Safety, Reactogenicity, and Immunogenicity of mRNA-1469 Vaccine to Prevent Ebola-Bundibugyo Virus Disease in Healthy Adult Participan",
+   "sponsor": "ModernaTX, Inc.",
+   "phase": "P1",
+   "pcd": "2027-09-30",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07737717",
+   "registry": "https://clinicaltrials.gov/study/NCT07737717"
+  },
+  {
+   "id": "NCT07838740",
+   "kind": "new",
+   "title": "A Phase 1 Study of VK2735 in Obese Adults Without Comorbidities",
+   "sponsor": "Viking Therapeutics, Inc.",
+   "phase": "P1",
+   "pcd": "2027-05",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838740",
+   "registry": "https://clinicaltrials.gov/study/NCT07838740"
+  },
+  {
+   "id": "NCT07543380",
+   "kind": "firmed",
+   "title": "A Study to Learn Safety and Immune Response to Study Vaccine -RSVpreF in Adults at High Risk of Severe RSV Disease.",
+   "sponsor": "Pfizer",
+   "phase": "P3",
+   "pcd": "2026-08-25",
+   "what": [
+    "primary completion: 2026-08-31 \u2192 2026-08-25",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07543380",
+   "registry": "https://clinicaltrials.gov/study/NCT07543380"
+  },
+  {
+   "id": "NCT07069712",
+   "kind": "changed",
+   "title": "A Study of Novel Agents or Combinations as Perioperative Treatment in Participants With Locally Advanced Resectable Gastroesophageal Adenocarcinoma",
+   "sponsor": "AstraZeneca",
+   "phase": "P2",
+   "pcd": "2027-11-09",
+   "what": [
+    "primary completion: 2027-11-03 \u2192 2027-11-09"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07069712",
+   "registry": "https://clinicaltrials.gov/study/NCT07069712"
+  },
+  {
+   "id": "NCT07838506",
+   "kind": "new",
+   "title": "Phase 3, Multi-Center, Randomized, Double-Masked, Placebo-Controlled Study Assessing the Safety and Efficacy of Urcosimod Ophthalmic Solution in Participants Wi",
+   "sponsor": "Okyo Pharma Ltd",
+   "phase": "P3",
+   "pcd": "2027-05",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838506",
+   "registry": "https://clinicaltrials.gov/study/NCT07838506"
+  },
+  {
+   "id": "NCT07247266",
+   "kind": "firmed",
+   "title": "Study to Evaluate the Safety, Tolerability, Efficacy and Pharmacokinetics of JTE-162 in Subjects With Cryopyrin-Associated Periodic Syndrome (CAPS)",
+   "sponsor": "Akros Pharma Inc.",
+   "phase": "P1",
+   "pcd": "2026-09-10",
+   "what": [
+    "primary completion: 2026-06 \u2192 2026-09-10",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07247266",
+   "registry": "https://clinicaltrials.gov/study/NCT07247266"
+  },
+  {
+   "id": "NCT07489651",
+   "kind": "slipped",
+   "title": "RE104 Safety and Efficacy Study in Generalized Anxiety Disorder",
+   "sponsor": "Reunion Neuroscience Inc",
+   "phase": "P2",
+   "pcd": "2027-07",
+   "what": [
+    "primary completion: 2027-02 \u2192 2027-07",
+    "enrollment: 64 \u2192 160",
+    "primary outcome text: RE104 30 mg versus placebo change from Baseline at Week 4 in Hamilton Anxiety Rating Scale (HAM-A) total score \u2192 RE104 when administered as a single 30 mg dose or as two 30 mg doses 3 weeks apart versus placebo change from Baseline at Week 4 in Hamilton Anxiety Rating Scal"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07489651",
+   "registry": "https://clinicaltrials.gov/study/NCT07489651"
+  },
+  {
+   "id": "NCT06601504",
+   "kind": "firmed",
+   "title": "Study of HMPL-760 Plus R-GemOx Versus Placebo Plus R-GemOx in Relapsed/Refractory DLBCL",
+   "sponsor": "Hutchmed",
+   "phase": "P2",
+   "pcd": "2026-05-23",
+   "what": [
+    "primary completion: 2026-05-12 \u2192 2026-05-23",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06601504",
+   "registry": "https://clinicaltrials.gov/study/NCT06601504"
+  },
+  {
+   "id": "NCT07123727",
+   "kind": "slipped",
+   "title": "A Study to Examine Anktiva for the Treatment of COVID-19.",
+   "sponsor": "ImmunityBio, Inc.",
+   "phase": "P2",
+   "pcd": "2027-03",
+   "what": [
+    "primary completion: 2026-07 \u2192 2027-03"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07123727",
+   "registry": "https://clinicaltrials.gov/study/NCT07123727"
+  },
+  {
+   "id": "NCT07780383",
+   "kind": "status",
+   "title": "A Study to Evaluate the Drug Levels, Absolute Bioavailability, Safety, Tolerability, and Immunogenicity of Single-Dose of BMS-986446 in Healthy Adults After Sin",
+   "sponsor": "Bristol-Myers Squibb",
+   "phase": "P1",
+   "pcd": "2027-06-17",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07780383",
+   "registry": "https://clinicaltrials.gov/study/NCT07780383"
+  },
+  {
+   "id": "NCT06439342",
+   "kind": "firmed",
+   "title": "A Study of Maribavir in Chinese Adults With Cytomegalovirus (CMV) Infections",
+   "sponsor": "Takeda",
+   "phase": "P3",
+   "pcd": "2026-07-22",
+   "what": [
+    "primary completion: 2026-12-31 \u2192 2026-07-22",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06439342",
+   "registry": "https://clinicaltrials.gov/study/NCT06439342"
+  },
+  {
+   "id": "NCT07839000",
+   "kind": "new",
+   "title": "A Clinical Trial to Evaluate [14C]-MK-4208/[14C]-TERN-701 in Healthy Adult Male Participants (MK-4208-002/TERN701-1016)",
+   "sponsor": "Terns, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+   "phase": "P1",
+   "pcd": "2026-04-03",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07839000",
+   "registry": "https://clinicaltrials.gov/study/NCT07839000"
+  },
+  {
+   "id": "NCT05667649",
+   "kind": "firmed",
+   "title": "Autologous Activated Adipose-derived Stem Cells (RB-ADSC) Injected Directly Into the Brain for Mild to Moderate Alzheimer's Disease",
+   "sponsor": "Regeneration Biomedical, Inc.",
+   "phase": "P1",
+   "pcd": "2026-06-25",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-06-25",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 18 \u2192 7"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05667649",
+   "registry": "https://clinicaltrials.gov/study/NCT05667649"
+  },
+  {
+   "id": "NCT07482176",
+   "kind": "changed",
+   "title": "Efficacy and Safety Study of Ixoberogene Soroparvovec (Ixo-vec) in Participants With Neovascular Age-related Macular Degeneration (AQUARIUS)",
+   "sponsor": "Adverum Biotechnologies, Inc.",
+   "phase": "P3",
+   "pcd": "2027-11-15",
+   "what": [
+    "enrollment: 284 \u2192 534"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07482176",
+   "registry": "https://clinicaltrials.gov/study/NCT07482176"
+  },
+  {
+   "id": "NCT06270316",
+   "kind": "changed",
+   "title": "Safety, PK/PD, and Exploratory Efficacy Study of AMT-191 in Classic Fabry Disease",
+   "sponsor": "UniQure Biopharma B.V.",
+   "phase": "P1/P2",
+   "pcd": "2027-12-01",
+   "what": [
+    "enrollment: 12 \u2192 20"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06270316",
+   "registry": "https://clinicaltrials.gov/study/NCT06270316"
+  },
+  {
+   "id": "NCT07743151",
+   "kind": "status",
+   "title": "A Clinical Trial of MK-1406 in Healthy Participants (MK-1406-008)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2027-02-05",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07743151",
+   "registry": "https://clinicaltrials.gov/study/NCT07743151"
+  },
+  {
+   "id": "NCT06523400",
+   "kind": "slipped",
+   "title": "The Efficacy and Safety of Once Daily Mexiletine PR in Patients With Myotonic Dystrophy Type 1 and Type 2",
+   "sponsor": "Lupin Ltd.",
+   "phase": "P3",
+   "pcd": "2027-06",
+   "what": [
+    "primary completion: 2026-03-17 \u2192 2027-06"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06523400",
+   "registry": "https://clinicaltrials.gov/study/NCT06523400"
+  },
+  {
+   "id": "NCT07559929",
+   "kind": "status",
+   "title": "A Study of DXC006 With Immune Checkpoint Inhibitors or Platinum for Small Cell Lung Cancer.",
+   "sponsor": "Hangzhou DAC Biotechnology Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-06-01",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07559929",
+   "registry": "https://clinicaltrials.gov/study/NCT07559929"
+  },
+  {
+   "id": "NCT07838727",
+   "kind": "new",
+   "title": "A Phase 2 Study of MG-K10 in Chronic Spontaneous Urticaria",
+   "sponsor": "Shanghai Mabgeek Biotech.Co.Ltd",
+   "phase": "P2",
+   "pcd": "2027-05-07",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07838727",
+   "registry": "https://clinicaltrials.gov/study/NCT07838727"
+  },
+  {
+   "id": "NCT05692180",
+   "kind": "new",
+   "title": "A Multicentre, Randomised, Double-blind, Parallel Group, Placebo-controlled, Time-to-first Asthma Exacerbation Phase III Efficacy and Safety Study of Benralizum",
+   "sponsor": "AstraZeneca",
+   "phase": "P3",
+   "pcd": "2026-12-23",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05692180",
+   "registry": "https://clinicaltrials.gov/study/NCT05692180"
+  },
+  {
+   "id": "NCT06882746",
+   "kind": "firmed",
+   "title": "A Study to Test Different Doses of BI 765049 in People With Advanced Cancer of the Colon, Rectum, Stomach, or Pancreas",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2026-09-08",
+   "what": [
+    "primary completion: 2026-09-09 \u2192 2026-09-08",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 TERMINATED",
+    "enrollment: 135 \u2192 14",
+    "why stopped:  \u2192 Sponsor decision"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06882746",
+   "registry": "https://clinicaltrials.gov/study/NCT06882746"
+  },
+  {
+   "id": "NCT07368959",
+   "kind": "status",
+   "title": "AURN001 Efficacy in Participants With Corneal Edema Secondary to Corneal Endothelial Dysfunction",
+   "sponsor": "Aurion Biotech",
+   "phase": "P3",
+   "pcd": "2027-06",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 120 \u2192 130"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07368959",
+   "registry": "https://clinicaltrials.gov/study/NCT07368959"
+  },
+  {
+   "id": "NCT04590326",
+   "kind": "slipped",
+   "title": "A Study to Find Out How Safe REGN5668 is and How Well it Works In Adult Women When Given With Either Cemiplimab, or Cemiplimab + Fianlimab, or Ubamatamab",
+   "sponsor": "Regeneron Pharmaceuticals",
+   "phase": "P1/P2",
+   "pcd": "2028-11-08",
+   "what": [
+    "primary completion: 2027-03-25 \u2192 2028-11-08"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT04590326",
+   "registry": "https://clinicaltrials.gov/study/NCT04590326"
+  },
+  {
+   "id": "NCT06455449",
+   "kind": "slipped",
+   "title": "A Study to Investigate the Efficacy and Safety of Anifrolumab Administered as Subcutaneous Injection and Added to Standard of Care Compared With Placebo Added t",
+   "sponsor": "AstraZeneca",
+   "phase": "P3",
+   "pcd": "2028-01-10",
+   "what": [
+    "primary completion: 2027-05-14 \u2192 2028-01-10"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT06455449",
+   "registry": "https://clinicaltrials.gov/study/NCT06455449"
+  },
+  {
+   "id": "NCT07458464",
+   "kind": "firmed",
+   "title": "Study to Investigate Toothpaste on Antibacterial Effects in the Different Regions of the Mouth",
+   "sponsor": "Colgate Palmolive",
+   "phase": "P3",
+   "pcd": "2026-06-28",
+   "what": [
+    "primary completion: 2026-09 \u2192 2026-06-28",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED",
+    "enrollment: 100 \u2192 95"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07458464",
+   "registry": "https://clinicaltrials.gov/study/NCT07458464"
+  },
+  {
+   "id": "NCT07217496",
+   "kind": "new",
+   "title": "N-803 in Combination With Pembrolizumab and Enfortumab Vedotin for Treatment of Urothelial Cancer",
+   "sponsor": "ImmunityBio, Inc.",
+   "phase": "P1",
+   "pcd": "2028-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07217496",
+   "registry": "https://clinicaltrials.gov/study/NCT07217496"
+  },
+  {
+   "id": "NCT07176390",
+   "kind": "firmed",
+   "title": "A Clinical Study of Tulisokibart (MK-7240) to Treat Rheumatoid Arthritis (RA) (MK-7240-014)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P2",
+   "pcd": "2026-09-07",
+   "what": [
+    "primary completion: 2026-09-05 \u2192 2026-09-07",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "enrollment: 182 \u2192 185"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07176390",
+   "registry": "https://clinicaltrials.gov/study/NCT07176390"
+  },
+  {
+   "id": "NCT07257185",
+   "kind": "status",
+   "title": "MHB018A Treatment in Patients With Chronic Thyroid Eye Disease",
+   "sponsor": "Minghui Pharmaceutical (Hangzhou) Ltd",
+   "phase": "P3",
+   "pcd": "2027-08-31",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT07257185",
+   "registry": "https://clinicaltrials.gov/study/NCT07257185"
+  },
+  {
+   "id": "NCT02650401",
+   "kind": "slipped",
+   "title": "Study Of Entrectinib (Rxdx-101) in Children and Adolescents With Locally Advanced Or Metastatic Solid Or Primary CNS Tumors And/Or Who Have No Satisfactory Trea",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P1/P2",
+   "pcd": "2027-06-30",
+   "what": [
+    "primary completion: 2026-06-30 \u2192 2027-06-30"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT02650401",
+   "registry": "https://clinicaltrials.gov/study/NCT02650401"
+  },
+  {
+   "id": "NCT07652723",
+   "kind": "slipped",
+   "title": "A Study to Learn About How Safe BAY3389934 is and How it Affects Blood Clotting When Given Alone or With Aspirin in Healthy Participants",
+   "sponsor": "Bayer",
+   "phase": "P1",
+   "pcd": "2026-12-29",
+   "what": [
+    "primary completion: 2026-11-11 \u2192 2026-12-29"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07652723",
+   "registry": "https://clinicaltrials.gov/study/NCT07652723"
+  },
+  {
+   "id": "NCT06452277",
+   "kind": "changed",
+   "title": "A Study to Learn More About How Well Sevabertinib Works and How Safe it is Compared With Standard Treatment, in Participants Who Have Advanced Non-small Cell Lu",
+   "sponsor": "Bayer",
+   "phase": "P3",
+   "pcd": "2027-10-28",
+   "what": [
+    "enrollment: 444 \u2192 555"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06452277",
+   "registry": "https://clinicaltrials.gov/study/NCT06452277"
+  },
+  {
+   "id": "NCT04044859",
+   "kind": "firmed",
+   "title": "ADP-A2M4CD8 as Monotherapy or in Combination With Either Nivolumab or Pembrolizumab in HLA-A2+ Subjects With MAGE-A4 Positive Tumors (SURPASS)",
+   "sponsor": "USWM CT, LLC",
+   "phase": "P1",
+   "pcd": "2026-04-15",
+   "what": [
+    "primary completion: 2026-12-23 \u2192 2026-04-15",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT04044859",
+   "registry": "https://clinicaltrials.gov/study/NCT04044859"
+  },
+  {
+   "id": "NCT06721013",
+   "kind": "changed",
+   "title": "A Study of Pirtobrutinib in Participants With Immune Thrombocytopenia",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1/P2",
+   "pcd": "2028-02",
+   "what": [
+    "primary completion: 2028-05 \u2192 2028-02"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06721013",
+   "registry": "https://clinicaltrials.gov/study/NCT06721013"
+  },
+  {
+   "id": "NCT07818967",
+   "kind": "status",
+   "title": "A Study of Abemaciclib (LY2835219) in Healthy Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2026-11",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07818967",
+   "registry": "https://clinicaltrials.gov/study/NCT07818967"
+  },
+  {
+   "id": "NCT07754474",
+   "kind": "status",
+   "title": "A Study to Test How Well Different and Multiple Doses of BI 3034701 Are Tolerated in People Living With Overweight or Obesity",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2027-06-21",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07754474",
+   "registry": "https://clinicaltrials.gov/study/NCT07754474"
+  },
+  {
+   "id": "NCT07837726",
+   "kind": "new",
+   "title": "Pilot Study of TTI-0102 in Cystinosis",
+   "sponsor": "Thiogenesis Therapeutics, Inc.",
+   "phase": "P2",
+   "pcd": "2026-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07837726",
+   "registry": "https://clinicaltrials.gov/study/NCT07837726"
+  },
+  {
+   "id": "NCT07309042",
+   "kind": "firmed",
+   "title": "Phase 1 Study of the Safety and Pharmacokinetics of YN001 With Rosuvastatin in Healthy Chinese Subjects",
+   "sponsor": "Beijing Inno Medicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-03-30",
+   "what": [
+    "primary completion: 2026-02 \u2192 2026-03-30",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07309042",
+   "registry": "https://clinicaltrials.gov/study/NCT07309042"
+  },
+  {
+   "id": "NCT07748351",
+   "kind": "status",
+   "title": "A Clinical Trial of Multiple Formulations of MK-4082 in Healthy Overweight and Obese Participants (MK-4082-007)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2026-12-15",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07748351",
+   "registry": "https://clinicaltrials.gov/study/NCT07748351"
+  },
+  {
+   "id": "NCT07800936",
+   "kind": "status",
+   "title": "HP007 Monotherapy for Relapsed or Refractory Advanced Solid Tumors",
+   "sponsor": "Parr Biotechnology (Hebei) Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-12-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07800936",
+   "registry": "https://clinicaltrials.gov/study/NCT07800936"
+  },
+  {
+   "id": "NCT07731139",
+   "kind": "status",
+   "title": "A Study to Learn How Different Amounts of the Study Medicine Called PF-08642534 Are Tolerated and Act in the Body of People Who Have Obesity",
+   "sponsor": "Pfizer",
+   "phase": "P1",
+   "pcd": "2027-04-21",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07731139",
+   "registry": "https://clinicaltrials.gov/study/NCT07731139"
+  },
+  {
+   "id": "NCT06915753",
+   "kind": "changed",
+   "title": "Safety and Preliminary Anti-Tumor Activity of TYRA-430 in Advanced Hepatocellular Carcinoma and Other Solid Tumors With Activating FGF/FGFR Pathway Aberrations",
+   "sponsor": "Tyra Biosciences, Inc",
+   "phase": "P1",
+   "pcd": "2028-01",
+   "what": [
+    "enrollment: 100 \u2192 125"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06915753",
+   "registry": "https://clinicaltrials.gov/study/NCT06915753"
+  },
+  {
+   "id": "NCT04400695",
+   "kind": "new",
+   "title": "A Study of RC48-ADC for the Treatment of Locally Advanced or Metastatic Breast Cancer With Low Expression of HER2",
+   "sponsor": "RemeGen Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2027-12-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT04400695",
+   "registry": "https://clinicaltrials.gov/study/NCT04400695"
+  },
+  {
+   "id": "NCT06343298",
+   "kind": "slipped",
+   "title": "To Evaluate the Safety and Efficacy of MANP in Subjects With Difficult to Control/ Resistant Hypertension",
+   "sponsor": "E-Star BioTech, LLC",
+   "phase": "P2",
+   "pcd": "2027-07-01",
+   "what": [
+    "primary completion: 2026-07-01 \u2192 2027-07-01"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06343298",
+   "registry": "https://clinicaltrials.gov/study/NCT06343298"
+  },
+  {
+   "id": "NCT07837648",
+   "kind": "new",
+   "title": "A Study to Test How Much BI 3034701 Gets Into the Blood in Healthy People When Given in Two Different Ways",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2026-12-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07837648",
+   "registry": "https://clinicaltrials.gov/study/NCT07837648"
+  },
+  {
+   "id": "NCT06569056",
+   "kind": "new",
+   "title": "A Trial of HRS-8427 in the Treatment of Adults With Complicated Urinary Tract Infection, Including Acute Pyelonephritis",
+   "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-11",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06569056",
+   "registry": "https://clinicaltrials.gov/study/NCT06569056"
+  },
+  {
+   "id": "NCT06668805",
+   "kind": "status",
+   "title": "A Study of Vosoritide in Children With Noonan Syndrome With Inadequate Growth During or After Human Growth Hormone Treatment",
+   "sponsor": "BioMarin Pharmaceutical",
+   "phase": "P2",
+   "pcd": "2027-03",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06668805",
+   "registry": "https://clinicaltrials.gov/study/NCT06668805"
+  },
+  {
+   "id": "NCT03588299",
+   "kind": "firmed",
+   "title": "Study to Test the Safety and How Well Patients With Severe Hemophilia A Respond to Treatment With BAY 2599023 (DTX 201), a Drug Therapy That Delivers a Healthy ",
+   "sponsor": "Bayer",
+   "phase": "P1/P2",
+   "pcd": "2026-09-15",
+   "what": [
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT03588299",
+   "registry": "https://clinicaltrials.gov/study/NCT03588299"
+  },
+  {
+   "id": "NCT07437105",
+   "kind": "slipped",
+   "title": "Dose Escalation Study Evaluating the Safety and Pharmacokinetics of VX-272 in Healthy Participants",
+   "sponsor": "Vertex Pharmaceuticals Incorporated",
+   "phase": "P1",
+   "pcd": "2027-06-26",
+   "what": [
+    "primary completion: 2027-03-23 \u2192 2027-06-26",
+    "enrollment: 128 \u2192 160"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07437105",
+   "registry": "https://clinicaltrials.gov/study/NCT07437105"
+  },
+  {
+   "id": "NCT05501418",
+   "kind": "new",
+   "title": "Evaluate the Safety and Efficacy of Allogeneic Umbilical Cord Mesenchymal Stem Cells in Patients With COVID-19",
+   "sponsor": "Ever Supreme Bio Technology Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2027-12-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT05501418",
+   "registry": "https://clinicaltrials.gov/study/NCT05501418"
+  },
+  {
+   "id": "NCT07190885",
+   "kind": "slipped",
+   "title": "A Pharmacokinetic Study of YN001 in Healthy Participants",
+   "sponsor": "Beijing Inno Medicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-09",
+   "what": [
+    "primary completion: 2026-02-04 \u2192 2026-09",
+    "status: RECRUITING \u2192 SUSPENDED",
+    "why stopped:  \u2192 The study was suspended at the request of the Sponsor."
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07190885",
+   "registry": "https://clinicaltrials.gov/study/NCT07190885"
+  },
+  {
+   "id": "NCT07794748",
+   "kind": "status",
+   "title": "A Study to Assess the Safety, Tolerability, and Immunogenicity of 3 Lots of a Multivalent Pneumococcal Conjugate Vaccine Administered to Adults",
+   "sponsor": "Pfizer",
+   "phase": "P3",
+   "pcd": "2027-06-07",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07794748",
+   "registry": "https://clinicaltrials.gov/study/NCT07794748"
+  },
+  {
+   "id": "NCT07836036",
+   "kind": "new",
+   "title": "Evaluation of RAS Inhibitor Treatment in Participants With Advanced or Metastatic Solid Tumors Harboring RAS Mutations",
+   "sponsor": "Jiangsu Aosaikang Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-11-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836036",
+   "registry": "https://clinicaltrials.gov/study/NCT07836036"
+  },
+  {
+   "id": "NCT07836647",
+   "kind": "new",
+   "title": "An Evaluation of the Safety and Efficacy of TSND-201 for the Treatment of PTSD",
+   "sponsor": "Transcend Therapeutics",
+   "phase": "P3",
+   "pcd": "2028-02",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836647",
+   "registry": "https://clinicaltrials.gov/study/NCT07836647"
+  },
+  {
+   "id": "NCT07556796",
+   "kind": "status",
+   "title": "Study of IBI3016 in People With Mild or Moderate Hypertension Patients",
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "phase": "P1",
+   "pcd": "2027-10-16",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07556796",
+   "registry": "https://clinicaltrials.gov/study/NCT07556796"
+  },
+  {
+   "id": "NCT06745583",
+   "kind": "firmed",
+   "title": "A Phase 2 Study to Assess the Safety of EI-1071 and the Effects of EI-1071 on Neuroinflammation in Alzheimer's Disease Patients",
+   "sponsor": "Elixiron Immunotherapeutics Inc.",
+   "phase": "P2",
+   "pcd": "2026-03-06",
+   "what": [
+    "primary completion: 2026-12 \u2192 2026-03-06",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 15 \u2192 7",
+    "primary outcome text: Change from Baseline to Week 4 [\u00b9\u2078F] FEPPA Binding in Selected Brain Regions of Interest \u2192 To assess the change of neuroinflammation in brains of AD patients after dosing with EI-1071 by PET"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06745583",
+   "registry": "https://clinicaltrials.gov/study/NCT06745583"
+  },
+  {
+   "id": "NCT07837115",
+   "kind": "new",
+   "title": "A Study to Assess the Relative Bioavailability of Irafamdastat (BMS-986368) and to Assess the Food Effect on the Pharmacokinetics of Irafamdastat in Healthy Adu",
+   "sponsor": "Celgene",
+   "phase": "P1",
+   "pcd": "2026-12-19",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07837115",
+   "registry": "https://clinicaltrials.gov/study/NCT07837115"
+  },
+  {
+   "id": "NCT07836660",
+   "kind": "new",
+   "title": "A Study of IBI355 in Participants With Moderate-to-Severe Sj\u00f6gren's Disease",
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "phase": "P2",
+   "pcd": "2027-11-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836660",
+   "registry": "https://clinicaltrials.gov/study/NCT07836660"
+  },
+  {
+   "id": "NCT07595263",
+   "kind": "status",
+   "title": "A Study of Ulonivirine (MK-8507) and Methadone in Healthy Volunteers (MK-8507-019)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2027-01-15",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07595263",
+   "registry": "https://clinicaltrials.gov/study/NCT07595263"
+  },
+  {
+   "id": "NCT07442591",
+   "kind": "firmed",
+   "title": "A Study to Assess Effect of Dosing Intervals on Multiple-Dose Pharmacokinetics of WD-1603 Taken Before Meals in Healthy Participants",
+   "sponsor": "Shanghai WD Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-04-23",
+   "what": [
+    "primary completion: 2026-06 \u2192 2026-04-23",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07442591",
+   "registry": "https://clinicaltrials.gov/study/NCT07442591"
+  },
+  {
+   "id": "NCT07836452",
+   "kind": "new",
+   "title": "A Phase 1, First-in-Human Study of CITY-RBP4 in Healthy Volunteers and STGD1 Participants",
+   "sponsor": "City Therapeutics",
+   "phase": "P1",
+   "pcd": "2028-02",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836452",
+   "registry": "https://clinicaltrials.gov/study/NCT07836452"
+  },
+  {
+   "id": "NCT07781631",
+   "kind": "status",
+   "title": "A Study in Healthy Men to Test Whether Carbamazepine Influences the Amount of Verducatib in the Blood",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2026-12-14",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07781631",
+   "registry": "https://clinicaltrials.gov/study/NCT07781631"
+  },
+  {
+   "id": "NCT06824987",
+   "kind": "slipped",
+   "title": "Dose-Ranging Safety, Tolerability, and Efficacy Study of AZD2373 in Participants With APOL1-Mediated Kidney Disease",
+   "sponsor": "AstraZeneca",
+   "phase": "P2",
+   "pcd": "2027-10-04",
+   "what": [
+    "primary completion: 2027-08-30 \u2192 2027-10-04",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 136 \u2192 57"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06824987",
+   "registry": "https://clinicaltrials.gov/study/NCT06824987"
+  },
+  {
+   "id": "NCT07803744",
+   "kind": "status",
+   "title": "A Study of Tirzepatide (LY3298176) in Participants With Type 1 Diabetes Mellitus and Overweight or Obesity",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2026-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07803744",
+   "registry": "https://clinicaltrials.gov/study/NCT07803744"
+  },
+  {
+   "id": "NCT07583446",
+   "kind": "status",
+   "title": "Randomized Evaluation of Istaroxime for Stabilization in Acute Heart Failure-Cardiogenic Shock",
+   "sponsor": "Seismic Pharmaceuticals Operations LLC",
+   "phase": "P2/P3",
+   "pcd": "2028-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING",
+    "primary outcome text: Change in systolic BP \u2192 Change in participant-reported dyspnea"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07583446",
+   "registry": "https://clinicaltrials.gov/study/NCT07583446"
+  },
+  {
+   "id": "NCT06564844",
+   "kind": "firmed",
+   "title": "A Phase III, Randomised Study of Adjuvant Dato-DXd in Combination With Rilvegostomig or Rilvegostomig Monotherapy Versus Standard of Care, Following Complete Tu",
+   "sponsor": "AstraZeneca",
+   "phase": "P3",
+   "pcd": "2026-07-10",
+   "what": [
+    "primary completion: 2027-06-30 \u2192 2026-07-10",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06564844",
+   "registry": "https://clinicaltrials.gov/study/NCT06564844"
+  },
+  {
+   "id": "NCT07615985",
+   "kind": "status",
+   "title": "Phase 1a Study Assessing Safety, Tolerability, Pharmacokinetics, and Immunogenicity of PMG1016",
+   "sponsor": "Pulmongene Ltd.",
+   "phase": "P1",
+   "pcd": "2026-11-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07615985",
+   "registry": "https://clinicaltrials.gov/study/NCT07615985"
+  },
+  {
+   "id": "NCT07835971",
+   "kind": "new",
+   "title": "A Study to Evaluate Efficacy and Safety of GW906 in Patients With Essential Hypertension",
+   "sponsor": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2026-09-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07835971",
+   "registry": "https://clinicaltrials.gov/study/NCT07835971"
+  },
+  {
+   "id": "NCT07693231",
+   "kind": "status",
+   "title": "A Study to Test How Well Different Doses of BI 3034701 Are Tolerated by Japanese Healthy People and Japanese People With Obesity or Overweight",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2026-12-22",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07693231",
+   "registry": "https://clinicaltrials.gov/study/NCT07693231"
+  },
+  {
+   "id": "NCT07388667",
+   "kind": "firmed",
+   "title": "A Clinical Study of MK-4082 in Healthy Overweight Participants (MK-4082-002)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2026-09-01",
+   "what": [
+    "primary completion: 2026-09-02 \u2192 2026-09-01",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 120 \u2192 122"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07388667",
+   "registry": "https://clinicaltrials.gov/study/NCT07388667"
+  },
+  {
+   "id": "NCT07220460",
+   "kind": "status",
+   "title": "Study to Assess the Adverse Events of Oral ABBV-932 in Adult Participants With Depressive Episodes Associated With Bipolar I or II Disorder",
+   "sponsor": "AbbVie",
+   "phase": "P2",
+   "pcd": "2027-03",
+   "what": [
+    "primary completion: 2027-04 \u2192 2027-03",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 200 \u2192 84"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07220460",
+   "registry": "https://clinicaltrials.gov/study/NCT07220460"
+  },
+  {
+   "id": "NCT07416526",
+   "kind": "changed",
+   "title": "A Clinical Study to Evaluate the Effects of NXT007 Compared to Factor VIII Prophylaxis in Participants With Hemophilia A",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P3",
+   "pcd": "2027-09-23",
+   "what": [
+    "enrollment: 126 \u2192 138"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07416526",
+   "registry": "https://clinicaltrials.gov/study/NCT07416526"
+  },
+  {
+   "id": "NCT07836270",
+   "kind": "new",
+   "title": "A Study of Ecnoglutide Injection in Overweight or Obese Chinese Adolescents",
+   "sponsor": "Hangzhou Sciwind Biosciences Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2028-06-08",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836270",
+   "registry": "https://clinicaltrials.gov/study/NCT07836270"
+  },
+  {
+   "id": "NCT07345130",
+   "kind": "changed",
+   "title": "A Bioequivalence Study of Advil Tablet (Mini) (Ibuprofen 200 mg) Versus Advil Tablet (Ibuprofen 200 mg) in Healthy Adult Subjects Under Fasted Conditions and Bi",
+   "sponsor": "HALEON",
+   "phase": "P1",
+   "pcd": "2026-02-03",
+   "what": [
+    "enrollment: 50 \u2192 68"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07345130",
+   "registry": "https://clinicaltrials.gov/study/NCT07345130"
+  },
+  {
+   "id": "NCT07837622",
+   "kind": "new",
+   "title": "A Study of BL-M09D1 in Patients With Locally Advanced or Metastatic Urothelial Carcinoma and Other Solid Tumors",
+   "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2028-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07837622",
+   "registry": "https://clinicaltrials.gov/study/NCT07837622"
+  },
+  {
+   "id": "NCT06667141",
+   "kind": "slipped",
+   "title": "Study of ACR-2316 in Specific Advanced Solid Tumors",
+   "sponsor": "Acrivon Therapeutics",
+   "phase": "P1/P2",
+   "pcd": "2027-08-12",
+   "what": [
+    "primary completion: 2026-08-12 \u2192 2027-08-12"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06667141",
+   "registry": "https://clinicaltrials.gov/study/NCT06667141"
+  },
+  {
+   "id": "NCT07722585",
+   "kind": "changed",
+   "title": "A Study to Learn About How a New Nurandociguat Tablet is Absorbed and Processed in the Body Compared to an Old Tablet and How Food Affects the Way the New Table",
+   "sponsor": "Bayer",
+   "phase": "P1",
+   "pcd": "2026-10-07",
+   "what": [
+    "primary completion: 2026-10-28 \u2192 2026-10-07"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07722585",
+   "registry": "https://clinicaltrials.gov/study/NCT07722585"
+  },
+  {
+   "id": "NCT07300280",
+   "kind": "status",
+   "title": "A Clinical Trial of Enlicitide and Rosuvastatin in Healthy Adults (MK-0616-039)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P1",
+   "pcd": "2026-10-14",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07300280",
+   "registry": "https://clinicaltrials.gov/study/NCT07300280"
+  },
+  {
+   "id": "NCT05918692",
+   "kind": "firmed",
+   "title": "A Phase 1 Study of BMF-500 in Adults With Acute Leukemia",
+   "sponsor": "Biomea Fusion Inc.",
+   "phase": "P1",
+   "pcd": "2026-01-01",
+   "what": [
+    "primary completion: 2026-04 \u2192 2026-01-01",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT05918692",
+   "registry": "https://clinicaltrials.gov/study/NCT05918692"
+  },
+  {
+   "id": "NCT07835984",
+   "kind": "new",
+   "title": "A Study to Evaluate Efficacy and Safety of GW906 Used as Add-on Therapy in Patients With Hypertension Not Adequately Controlled by One or Two Antihypertensive M",
+   "sponsor": "Shenzhen Salubris Pharmaceuticals Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2027-10",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07835984",
+   "registry": "https://clinicaltrials.gov/study/NCT07835984"
+  },
+  {
+   "id": "NCT04662255",
+   "kind": "slipped",
+   "title": "Study of BTK Inhibitor LOXO-305 Versus Approved BTK Inhibitor Drugs in Patients With Mantle Cell Lymphoma (MCL)",
+   "sponsor": "Loxo Oncology, Inc.",
+   "phase": "P3",
+   "pcd": "2027-11",
+   "what": [
+    "primary completion: 2027-01 \u2192 2027-11"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT04662255",
+   "registry": "https://clinicaltrials.gov/study/NCT04662255"
+  },
+  {
+   "id": "NCT04434768",
+   "kind": "firmed",
+   "title": "Evaluate the Safety and Explore Efficacy of Umbilical Cord Mesenchymal Stem Cells in Acute Ischemic Stroke",
+   "sponsor": "Ever Supreme Bio Technology Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-01-23",
+   "what": [
+    "primary completion: 2026-02-28 \u2192 2026-01-23",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT04434768",
+   "registry": "https://clinicaltrials.gov/study/NCT04434768"
+  },
+  {
+   "id": "NCT07836504",
+   "kind": "new",
+   "title": "A Pharmacokinetic Study of HS-10504 in Participants With Hepatic Impairment and Normal Hepatic Function.",
+   "sponsor": "Jiangsu Hansoh Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2027-09-25",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT07836504",
+   "registry": "https://clinicaltrials.gov/study/NCT07836504"
+  },
+  {
+   "id": "NCT06700720",
+   "kind": "firmed",
+   "title": "YN001-004 in Patients With Coronary Atherosclerosis in Australia",
+   "sponsor": "Beijing Inno Medicine Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2026-07-22",
+   "what": [
+    "primary completion: 2026-06 \u2192 2026-07-22",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 TERMINATED",
+    "enrollment: 24 \u2192 3",
+    "why stopped:  \u2192 The study was terminated at the request of the Sponsor."
+   ],
+   "date": "2026-09-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06700720",
+   "registry": "https://clinicaltrials.gov/study/NCT06700720"
+  },
+  {
+   "id": "NCT07746726",
+   "kind": "status",
+   "title": "Safety and Efficacy of HRS-9190 Compared to Rocuronium for Tracheal Intubation and Bolus Maintenance in Adults",
+   "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-12-31",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07746726",
+   "registry": "https://clinicaltrials.gov/study/NCT07746726"
+  },
+  {
+   "id": "NCT06905210",
+   "kind": "status",
+   "title": "Study of New Antiandrogenic Progestogen + Low-dose Estrogen for Moderate Acne Vulgaris",
+   "sponsor": "Eurofarma Laboratorios S.A.",
+   "phase": "P3",
+   "pcd": "2027-02",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING",
+    "enrollment: 526 \u2192 531",
+    "primary outcome text: Change from Baseline in the inflammatory lesion count at cycle 6. \u2192 Absolute reduction from baseline in the number of inflammatory acne lesions assessed at Cycle 6."
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06905210",
+   "registry": "https://clinicaltrials.gov/study/NCT06905210"
+  },
+  {
+   "id": "NCT06445062",
+   "kind": "slipped",
+   "title": "Study of RAS(ON) Inhibitors in Patients With Gastrointestinal Solid Tumors",
+   "sponsor": "Revolution Medicines, Inc.",
+   "phase": "P1/P2",
+   "pcd": "2028-09-30",
+   "what": [
+    "primary completion: 2027-05-15 \u2192 2028-09-30",
+    "primary outcome text: Adverse events \u2192 Adverse events (Subprotocols A-F)"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06445062",
+   "registry": "https://clinicaltrials.gov/study/NCT06445062"
+  },
+  {
+   "id": "NCT07794592",
+   "kind": "status",
+   "title": "A Study Comparing Two Ways of Taking Olomorasib (LY3537982) in Healthy Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2026-10",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07794592",
+   "registry": "https://clinicaltrials.gov/study/NCT07794592"
+  },
+  {
+   "id": "NCT06612775",
+   "kind": "slipped",
+   "title": "A Study to Evaluate the Safety, Tolerability, and Efficacy of CB03-154 in Adult Patients With Focal Epilepsy",
+   "sponsor": "Shanghai Zhimeng Biopharma, Inc.",
+   "phase": "P2",
+   "pcd": "2027-09",
+   "what": [
+    "primary completion: 2026-08 \u2192 2027-09",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06612775",
+   "registry": "https://clinicaltrials.gov/study/NCT06612775"
+  },
+  {
+   "id": "NCT06238622",
+   "kind": "status",
+   "title": "A Follow-up Study to Test Long-term Treatment With Nerandomilast in People With Pulmonary Fibrosis Who Took Part in a Previous Study With Nerandomilast",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P3",
+   "pcd": "2027-04-28",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING",
+    "enrollment: 1700 \u2192 1666"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06238622",
+   "registry": "https://clinicaltrials.gov/study/NCT06238622"
+  },
+  {
+   "id": "NCT07833098",
+   "kind": "new",
+   "title": "A Phase II Study of VB19055 in Uncontrolled or Resistant Hypertension",
+   "sponsor": "Zhejiang Yangli Pharmaceutical Technology Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2027-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833098",
+   "registry": "https://clinicaltrials.gov/study/NCT07833098"
+  },
+  {
+   "id": "NCT07620951",
+   "kind": "firmed",
+   "title": "Material Balance of [14C]Zorifertinib in Healthy Adult Male Participants in China",
+   "sponsor": "Alpha Biopharma (Jiangsu) Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-07-18",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-07-18",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 8 \u2192 6"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07620951",
+   "registry": "https://clinicaltrials.gov/study/NCT07620951"
+  },
+  {
+   "id": "NCT06862908",
+   "kind": "status",
+   "title": "A Study of IBI362 in Subjects With HFpEF or HFmrEF Combined With Obesity",
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "phase": "P2",
+   "pcd": "2026-09-24",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06862908",
+   "registry": "https://clinicaltrials.gov/study/NCT06862908"
+  },
+  {
+   "id": "NCT07318350",
+   "kind": "status",
+   "title": "Study of Formoterol 6 mcg/Fluticasone 125 mcg by Eurofarma Laborat\u00f3rios S.A. Versus Alenia\u00ae 6 mcg/200 mcg in Patients With Asthma (FORASMA)",
+   "sponsor": "Eurofarma Laboratorios S.A.",
+   "phase": "P3",
+   "pcd": "2028-03",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 WITHDRAWN",
+    "enrollment: 174 \u2192 0",
+    "why stopped:  \u2192 Strategic change in development priorities."
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07318350",
+   "registry": "https://clinicaltrials.gov/study/NCT07318350"
+  },
+  {
+   "id": "NCT06714617",
+   "kind": "firmed",
+   "title": "Evaluate BL-M17D1 in Patients w/HER2-Expressing/Mutant Advanced or Metastatic Solid Tumors",
+   "sponsor": "SystImmune Inc.",
+   "phase": "P1",
+   "pcd": "2026-01-30",
+   "what": [
+    "primary completion: 2027-09-01 \u2192 2026-01-30",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 TERMINATED",
+    "enrollment: 120 \u2192 3",
+    "why stopped:  \u2192 The decision is based only on the Sponsor's internal portfolio prioritization and resource management considerations and is not due to the investigational product's toxicity considerations."
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06714617",
+   "registry": "https://clinicaltrials.gov/study/NCT06714617"
+  },
+  {
+   "id": "NCT07222709",
+   "kind": "slipped",
+   "title": "A Study to Assess the Adverse Events and How Oral ABBV-1042 Moves Through the Body of Healthy Adult Participants",
+   "sponsor": "AbbVie",
+   "phase": "P1",
+   "pcd": "2026-09",
+   "what": [
+    "primary completion: 2026-05 \u2192 2026-09",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07222709",
+   "registry": "https://clinicaltrials.gov/study/NCT07222709"
+  },
+  {
+   "id": "NCT07311330",
+   "kind": "slipped",
+   "title": "Phase IIa Clinical Trial of YN001 in Patients With Atherosclerotic Cardiovascular and Cerebrovascular Diseases and Erectile Dysfunction",
+   "sponsor": "Beijing Inno Medicine Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2026-10",
+   "what": [
+    "primary completion: 2026-06-16 \u2192 2026-10",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07311330",
+   "registry": "https://clinicaltrials.gov/study/NCT07311330"
+  },
+  {
+   "id": "NCT07229157",
+   "kind": "firmed",
+   "title": "Effect of Maridebart Cafraglutide on the Heart's Electrical Activity",
+   "sponsor": "Amgen",
+   "phase": "P1",
+   "pcd": "2026-08-27",
+   "what": [
+    "primary completion: 2026-08-26 \u2192 2026-08-27",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07229157",
+   "registry": "https://clinicaltrials.gov/study/NCT07229157"
+  },
+  {
+   "id": "NCT06140836",
+   "kind": "slipped",
+   "title": "A Study of Repotrectinib Versus Crizotinib in Participants With Locally Advanced or Metastatic Tyrosine Kinase Inhibitor (TKI)-na\u00efve ROS1-positive Non-Small Cel",
+   "sponsor": "Bristol-Myers Squibb",
+   "phase": "P3",
+   "pcd": "2027-02-16",
+   "what": [
+    "primary completion: 2026-03-13 \u2192 2027-02-16"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06140836",
+   "registry": "https://clinicaltrials.gov/study/NCT06140836"
+  },
+  {
+   "id": "NCT06424288",
+   "kind": "changed",
+   "title": "A Study to Test Whether Vicadrostat in Combination With Empagliflozin Helps People With Heart Failure",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P3",
+   "pcd": "2028-05-22",
+   "what": [
+    "enrollment: 6000 \u2192 6712"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06424288",
+   "registry": "https://clinicaltrials.gov/study/NCT06424288"
+  },
+  {
+   "id": "NCT07833735",
+   "kind": "new",
+   "title": "A Study to Evaluate the Safety, Tolerability, Pharmacokinetic Profile, and Preliminary Efficacy of SYS6043 \u00b1 Bevacizumab \u00b1 Chemotherapy in Participants With Adv",
+   "sponsor": "CSPC Megalith Biopharmaceutical Co.,Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-10-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833735",
+   "registry": "https://clinicaltrials.gov/study/NCT07833735"
+  },
+  {
+   "id": "NCT06641908",
+   "kind": "changed",
+   "title": "Anti-GD2 ADC M3554 in Advanced Solid Tumors",
+   "sponsor": "EMD Serono Research & Development Institute, Inc.",
+   "phase": "P1",
+   "pcd": "2027-04-16",
+   "what": [
+    "enrollment: 52 \u2192 65"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06641908",
+   "registry": "https://clinicaltrials.gov/study/NCT06641908"
+  },
+  {
+   "id": "NCT06608472",
+   "kind": "status",
+   "title": "Fixed-dose Combination of an Angiotensin Receptor Blocker and Thiazide Diuretic for Essential Hypertension",
+   "sponsor": "Eurofarma Laboratorios S.A.",
+   "phase": "P3",
+   "pcd": "2028-04-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 WITHDRAWN",
+    "enrollment: 292 \u2192 0",
+    "why stopped:  \u2192 Strategic change in development priorities."
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06608472",
+   "registry": "https://clinicaltrials.gov/study/NCT06608472"
+  },
+  {
+   "id": "NCT07835074",
+   "kind": "new",
+   "title": "A Study to Evaluate DEP114 for the Treatment of Acute Exacerbation of Persistent Allergic Rhinitis in Children Aged 6 to Under 12 Years",
+   "sponsor": "EMS",
+   "phase": "P3",
+   "pcd": "2028-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07835074",
+   "registry": "https://clinicaltrials.gov/study/NCT07835074"
+  },
+  {
+   "id": "NCT07769502",
+   "kind": "status",
+   "title": "A Study to Assess Adverse Events and Change in Disease Activity With Treatment Combinations With Telisotuzumab Adizutecan in Adults Participants With Pancreatob",
+   "sponsor": "AbbVie",
+   "phase": "P2",
+   "pcd": "2028-09",
+   "what": [
+    "primary completion: 2028-11 \u2192 2028-09",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07769502",
+   "registry": "https://clinicaltrials.gov/study/NCT07769502"
+  },
+  {
+   "id": "NCT07832383",
+   "kind": "new",
+   "title": "Evaluation of NBI-1117567 in Participants With Mild to Moderate Alzheimer's Disease (AD) Taking a Background Acetylcholinesterase Inhibitor",
+   "sponsor": "Neurocrine Biosciences",
+   "phase": "P2",
+   "pcd": "2028-05",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832383",
+   "registry": "https://clinicaltrials.gov/study/NCT07832383"
+  },
+  {
+   "id": "NCT06081894",
+   "kind": "firmed",
+   "title": "A Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic Non-Obstructive Hypertrophic Cardiomyopathy (nHCM)",
+   "sponsor": "Cytokinetics",
+   "phase": "P3",
+   "pcd": "2026-08-31",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-08-31",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06081894",
+   "registry": "https://clinicaltrials.gov/study/NCT06081894"
+  },
+  {
+   "id": "NCT07540988",
+   "kind": "status",
+   "title": "FIBRONEER-ACT: A Study to Test Whether Nerandomilast Helps People With Fibrosing Interstitial Lung Disease at Risk for Disease Progression",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P3",
+   "pcd": "2028-12-05",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07540988",
+   "registry": "https://clinicaltrials.gov/study/NCT07540988"
+  },
+  {
+   "id": "NCT07783503",
+   "kind": "status",
+   "title": "A Drug-drug Interaction Study to Assess the Effect of Phenytoin and Itraconazole on the Pharmacokinetics of Pelabresib in Healthy Participants",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P1",
+   "pcd": "2026-11-13",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07783503",
+   "registry": "https://clinicaltrials.gov/study/NCT07783503"
+  },
+  {
+   "id": "NCT06531824",
+   "kind": "status",
+   "title": "EASi-KIDNEY\u2122 (The Studies of Heart & Kidney Protection With BI 690517 in Combination With Empagliflozin)",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P3",
+   "pcd": "2026-12-31",
+   "what": [
+    "primary completion: 2028-08-30 \u2192 2026-12-31",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06531824",
+   "registry": "https://clinicaltrials.gov/study/NCT06531824"
+  },
+  {
+   "id": "NCT07682870",
+   "kind": "status",
+   "title": "A Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Efficacy of VG2025 Intravenous Injection in Subjects With Advanced Soli",
+   "sponsor": "Virogin Biotech Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-12-02",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07682870",
+   "registry": "https://clinicaltrials.gov/study/NCT07682870"
+  },
+  {
+   "id": "NCT06109272",
+   "kind": "new",
+   "title": "A Study to Assess the Dose, Adverse Events, and Change in Disease Activity of Livmoniplimab as an Intravenous (IV) Solution in Combination With Budigalimab as a",
+   "sponsor": "AbbVie",
+   "phase": "P2/P3",
+   "pcd": "2027-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06109272",
+   "registry": "https://clinicaltrials.gov/study/NCT06109272"
+  },
+  {
+   "id": "NCT06440967",
+   "kind": "firmed",
+   "title": "A Study to Confirm if Fezolinetant Helps Reduce Hot Flashes in Women With Breast Cancer Who Are Having Hormone Therapy",
+   "sponsor": "Astellas Pharma Global Development, Inc.",
+   "phase": "P3",
+   "pcd": "2026-06-25",
+   "what": [
+    "primary completion: 2026-06-30 \u2192 2026-06-25",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06440967",
+   "registry": "https://clinicaltrials.gov/study/NCT06440967"
+  },
+  {
+   "id": "NCT06579755",
+   "kind": "status",
+   "title": "A Study of Dengue Tetravalent Vaccine (TDV) in Adults (Age 45 to 60 and >60 to 79 Years)",
+   "sponsor": "Takeda",
+   "phase": "P3",
+   "pcd": "2027-04-14",
+   "what": [
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06579755",
+   "registry": "https://clinicaltrials.gov/study/NCT06579755"
+  },
+  {
+   "id": "NCT06379217",
+   "kind": "slipped",
+   "title": "NEPC Study: An Exploratory Safety and Efficacy Study With PSMA, SSTR2 and GRPR Targeted Radioligand Therapy in Metastatic Neuroendocrine Prostate Cancer.",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P1",
+   "pcd": "2026-09-11",
+   "what": [
+    "primary completion: 2026-08-31 \u2192 2026-09-11"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06379217",
+   "registry": "https://clinicaltrials.gov/study/NCT06379217"
+  },
+  {
+   "id": "NCT05446298",
+   "kind": "firmed",
+   "title": "ONC-392 and Pembrolizumab in Platinum Resistant Ovarian Cancer",
+   "sponsor": "OncoC4, Inc.",
+   "phase": "P2",
+   "pcd": "2026-08-30",
+   "what": [
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT05446298",
+   "registry": "https://clinicaltrials.gov/study/NCT05446298"
+  },
+  {
+   "id": "NCT05230537",
+   "kind": "changed",
+   "title": "A Masked, Placebo-controlled Study to Assess Iptacopan in Age-related Macular Degeneration",
+   "sponsor": "Novartis Pharmaceuticals",
+   "phase": "P2",
+   "pcd": "2026-09-30",
+   "what": [
+    "primary completion: 2026-10-01 \u2192 2026-09-30",
+    "enrollment: 170 \u2192 168"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT05230537",
+   "registry": "https://clinicaltrials.gov/study/NCT05230537"
+  },
+  {
+   "id": "NCT07835243",
+   "kind": "new",
+   "title": "A Study to Assess the Effect of Subcutaneous Injection Site on the Pharmacokinetics of Pegozafermin in Healthy Participants",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P1",
+   "pcd": "2027-03-02",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07835243",
+   "registry": "https://clinicaltrials.gov/study/NCT07835243"
+  },
+  {
+   "id": "NCT07783802",
+   "kind": "status",
+   "title": "A Study of Clazakizumab (LY5724886) in Adults With Elevated hsCRP and at Increased Risk for Cardiovascular Event",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P2",
+   "pcd": "2027-05",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07783802",
+   "registry": "https://clinicaltrials.gov/study/NCT07783802"
+  },
+  {
+   "id": "NCT06679881",
+   "kind": "status",
+   "title": "Long-Term, Open-label Study of Oral Deucrictibant Extended-Release Tablet for Prophylaxis Against Angioedema Attacks in Adolescents and Adults With HAE",
+   "sponsor": "Pharvaris Netherlands B.V.",
+   "phase": "P3",
+   "pcd": "2028-12",
+   "what": [
+    "status: RECRUITING \u2192 ENROLLING_BY_INVITATION",
+    "primary outcome text: Treatment-emergent adverse events (TEAEs), including serious adverse events (SAEs), adverse events of special interest (AESIs), and TEAEs leading to study drug  \u2192 Number of participants with treatment-emergent adverse events (TEAEs), including serious adverse events (SAEs), adverse events of special interest (AESIs), and "
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06679881",
+   "registry": "https://clinicaltrials.gov/study/NCT06679881"
+  },
+  {
+   "id": "NCT07712484",
+   "kind": "changed",
+   "title": "A Phase II Randomized Study to Evaluate Measures for Endpoint Derivation in Patients With Progressive or Refractory Disseminated Coccidioidomycosis Treated With",
+   "sponsor": "F2G Ltd",
+   "phase": "P2",
+   "pcd": "2028-06",
+   "what": [
+    "primary outcome text: Change from baseline in VF-PRO Mobility domain score \u2192 Change from baseline in Valley Fever - Patient Reported Outcomes (VF-PRO) Mobility domain score"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07712484",
+   "registry": "https://clinicaltrials.gov/study/NCT07712484"
+  },
+  {
+   "id": "NCT07522476",
+   "kind": "status",
+   "title": "A Clinical Study to Evaluate the Efficacy and Safety of VG2025 in Intrahepatic Cholangiocarcinoma",
+   "sponsor": "Virogin Biotech Ltd.",
+   "phase": "P2",
+   "pcd": "2028-01-18",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07522476",
+   "registry": "https://clinicaltrials.gov/study/NCT07522476"
+  },
+  {
+   "id": "NCT07765498",
+   "kind": "status",
+   "title": "A Study of LY4355756 in Healthy Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2027-01",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07765498",
+   "registry": "https://clinicaltrials.gov/study/NCT07765498"
+  },
+  {
+   "id": "NCT07751848",
+   "kind": "status",
+   "title": "A Study of Outcomes in Chinese Patients Treated With Anifrolumab Who Have Active Mod-severe Systemic Lupus Erythematosus",
+   "sponsor": "AstraZeneca",
+   "phase": "P3",
+   "pcd": "2028-08-25",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07751848",
+   "registry": "https://clinicaltrials.gov/study/NCT07751848"
+  },
+  {
+   "id": "NCT06151574",
+   "kind": "slipped",
+   "title": "Beamion LUNG-2: A Study to Test Whether Zongertinib (BI 1810631) Helps People With Advanced Non-small Cell Lung Cancer With HER2 Mutations Compared With Standar",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P3",
+   "pcd": "2026-12-10",
+   "what": [
+    "primary completion: 2026-09-02 \u2192 2026-12-10"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06151574",
+   "registry": "https://clinicaltrials.gov/study/NCT06151574"
+  },
+  {
+   "id": "NCT07833943",
+   "kind": "new",
+   "title": "A Study to Evaluate the Safety and Efficacy of Multiple Dose of STSP-0902 in Patients With Oligozoospermia and/or Asthenozoospermia.",
+   "sponsor": "Staidson (Beijing) Biopharmaceuticals Co., Ltd",
+   "phase": "P2",
+   "pcd": "2027-09",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833943",
+   "registry": "https://clinicaltrials.gov/study/NCT07833943"
+  },
+  {
+   "id": "NCT03815643",
+   "kind": "slipped",
+   "title": "Avelumab Program Rollover Study",
+   "sponsor": "EMD Serono Research & Development Institute, Inc.",
+   "phase": "P3",
+   "pcd": "2026-11-24",
+   "what": [
+    "primary completion: 2026-08-21 \u2192 2026-11-24"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT03815643",
+   "registry": "https://clinicaltrials.gov/study/NCT03815643"
+  },
+  {
+   "id": "NCT05745740",
+   "kind": "new",
+   "title": "A Study of RC48-ADC Combined With Pyrotinib For Treatment of Local Advanced or Metastasis NSCLC With HER2 Mutation",
+   "sponsor": "RemeGen Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2027-12-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT05745740",
+   "registry": "https://clinicaltrials.gov/study/NCT05745740"
+  },
+  {
+   "id": "NCT05039840",
+   "kind": "firmed",
+   "title": "Efficacy and Safety of Frexalimab (SAR441344) in the Treatment of Systemic Lupus Erythematosus",
+   "sponsor": "Sanofi",
+   "phase": "P2",
+   "pcd": "2026-09-04",
+   "what": [
+    "primary completion: 2026-09-03 \u2192 2026-09-04",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT05039840",
+   "registry": "https://clinicaltrials.gov/study/NCT05039840"
+  },
+  {
+   "id": "NCT07223502",
+   "kind": "firmed",
+   "title": "A Study Comparing the Clinical Benefit of Finerenone Versus a Fixed Dose Combination (FDC) of Extended-Release Torsemide and Spironolactone in Patients With Hyp",
+   "sponsor": "Sarfez Pharmaceuticals, Inc.",
+   "phase": "P3",
+   "pcd": "2026-09-17",
+   "what": [
+    "primary completion: 2026-07 \u2192 2026-09-17",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 WITHDRAWN",
+    "enrollment: 30 \u2192 0",
+    "why stopped:  \u2192 No recruitment"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07223502",
+   "registry": "https://clinicaltrials.gov/study/NCT07223502"
+  },
+  {
+   "id": "NCT07082192",
+   "kind": "status",
+   "title": "A Study to Evaluate the Efficacy and Safety of Different Doses of CB03-154 in Adult Patients With Amyotrophic Lateral Sclerosis (ALS)",
+   "sponsor": "Shanghai Zhimeng Biopharma, Inc.",
+   "phase": "P2/P3",
+   "pcd": "2027-09-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07082192",
+   "registry": "https://clinicaltrials.gov/study/NCT07082192"
+  },
+  {
+   "id": "NCT06303570",
+   "kind": "status",
+   "title": "A Study to Evaluate the Efficacy and Safety of CBL-514 Compared to Placebo in Participants With Dercum's Disease Lipomas",
+   "sponsor": "Caliway Biopharmaceuticals Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2026-03-23",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06303570",
+   "registry": "https://clinicaltrials.gov/study/NCT06303570"
+  },
+  {
+   "id": "NCT07784270",
+   "kind": "status",
+   "title": "A Study to Evaluate Effect of AZD6234 in Adult Participants With Type 2 Diabetes Mellitus and Obesity or Overweight",
+   "sponsor": "AstraZeneca",
+   "phase": "P3",
+   "pcd": "2028-08-08",
+   "what": [
+    "primary completion: 2028-08-09 \u2192 2028-08-08",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07784270",
+   "registry": "https://clinicaltrials.gov/study/NCT07784270"
+  },
+  {
+   "id": "NCT07828860",
+   "kind": "status",
+   "title": "Safety and Efficacy of Soquelitinib in Adults With Hidradenitis Suppurativa",
+   "sponsor": "Corvus Pharmaceuticals, Inc.",
+   "phase": "P1",
+   "pcd": "2027-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07828860",
+   "registry": "https://clinicaltrials.gov/study/NCT07828860"
+  },
+  {
+   "id": "NCT07833306",
+   "kind": "new",
+   "title": "Efficacy and Safety of ATTO-1310 in the Treatment of Participants With Chronic Pruritus of Unknown Origin",
+   "sponsor": "Attovia Therapeutics Inc",
+   "phase": "P2",
+   "pcd": "2028-08-30",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833306",
+   "registry": "https://clinicaltrials.gov/study/NCT07833306"
+  },
+  {
+   "id": "NCT07346495",
+   "kind": "firmed",
+   "title": "A Study of Remternetug (LY3372993) in Healthy Chinese Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2026-08-04",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-08-04",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07346495",
+   "registry": "https://clinicaltrials.gov/study/NCT07346495"
+  },
+  {
+   "id": "NCT07832799",
+   "kind": "new",
+   "title": "Comparing the Extent to Which Two Maridebart Cafraglutide Drug Products Are Made Available in the Body After a Single Subcutaneous Dose",
+   "sponsor": "Amgen",
+   "phase": "P1",
+   "pcd": "2027-03-23",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832799",
+   "registry": "https://clinicaltrials.gov/study/NCT07832799"
+  },
+  {
+   "id": "NCT07140939",
+   "kind": "slipped",
+   "title": "A Study to Evaluate the Efficacy and Safety of CBL-514 Injection for Reducing Subcutaneous Fat",
+   "sponsor": "Caliway Biopharmaceuticals Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2027-07",
+   "what": [
+    "primary completion: 2027-05 \u2192 2027-07",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING",
+    "enrollment: 300 \u2192 320",
+    "primary outcome text: Percentage of participants with at least 13% abdominal fat change and at least a 2-grade improvement on Patient Reported Abdominal Fat Rating Scale (PR-AFRS) in \u2192 Percentage of participants with at least a 2-grade improvement on Patient Reported Abdominal Fat Rating Scale (PR-AFRS) and Clinician Reported Abdominal Fat Rat"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07140939",
+   "registry": "https://clinicaltrials.gov/study/NCT07140939"
+  },
+  {
+   "id": "NCT07832435",
+   "kind": "new",
+   "title": "A Phase 2, Placebo-Controlled Study of Oral RXC008 for Crohn's Strictures",
+   "sponsor": "Redx Pharma Ltd",
+   "phase": "P2",
+   "pcd": "2028-08-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832435",
+   "registry": "https://clinicaltrials.gov/study/NCT07832435"
+  },
+  {
+   "id": "NCT05643534",
+   "kind": "firmed",
+   "title": "Study to Assess Safety and Efficacy of Tenapanor for Treatment of IBS-C in Pediatric Patients 12 to Less Than 18 Years",
+   "sponsor": "Ardelyx",
+   "phase": "P3",
+   "pcd": "2026-08-20",
+   "what": [
+    "primary completion: 2026-09-01 \u2192 2026-08-20",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT05643534",
+   "registry": "https://clinicaltrials.gov/study/NCT05643534"
+  },
+  {
+   "id": "NCT07763652",
+   "kind": "status",
+   "title": "A Study of BL-ARC002 in Patients With Locally Advanced or Metastatic Gastrointestinal Tumors and Other Solid Tumors",
+   "sponsor": "Sichuan Baili Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07763652",
+   "registry": "https://clinicaltrials.gov/study/NCT07763652"
+  },
+  {
+   "id": "NCT07545356",
+   "kind": "status",
+   "title": "A Study of KIVU-305 in Participants With Locally Advanced or Metastatic Solid Tumors",
+   "sponsor": "Kivu Bioscience Inc.",
+   "phase": "P1",
+   "pcd": "2027-12",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07545356",
+   "registry": "https://clinicaltrials.gov/study/NCT07545356"
+  },
+  {
+   "id": "NCT07653685",
+   "kind": "status",
+   "title": "A Clinical Trial Evaluating TQB2930 Injection and Chemotherapy With or Without Bevacizumab in Patients With HER2-Abnormally Expressed Unresectable Locally Advan",
+   "sponsor": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2027-06",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07653685",
+   "registry": "https://clinicaltrials.gov/study/NCT07653685"
+  },
+  {
+   "id": "NCT07833618",
+   "kind": "new",
+   "title": "A Phase II Study of ALT001 in Patients With Amyotrophic Lateral Sclerosis (ALS)",
+   "sponsor": "Darwin Origin (Hubei) Biopharmaceutical Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2028-01-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07833618",
+   "registry": "https://clinicaltrials.gov/study/NCT07833618"
+  },
+  {
+   "id": "NCT07832747",
+   "kind": "new",
+   "title": "A Study of DCC-3014 to Evaluate the Efficacy, Safety, and Pharmacokinetics in Subjects With TGCT",
+   "sponsor": "Ono Pharmaceutical Co., Ltd.",
+   "phase": "P2",
+   "pcd": "2028-08-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832747",
+   "registry": "https://clinicaltrials.gov/study/NCT07832747"
+  },
+  {
+   "id": "NCT07832500",
+   "kind": "new",
+   "title": "A Lot-to-Lot Consistency Clinical Trial of PCV13",
+   "sponsor": "Sinovac Life Sciences Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2027-03",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832500",
+   "registry": "https://clinicaltrials.gov/study/NCT07832500"
+  },
+  {
+   "id": "NCT07832552",
+   "kind": "new",
+   "title": "A Phase 3 Study Evaluating the Safety and Efficacy of TRIESENCE\u00ae (Injectable Suspension) for the Treatment of Ocular Inflammation and Pain After Ophthalmic Surg",
+   "sponsor": "Harrow Inc",
+   "phase": "P3",
+   "pcd": "2026-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832552",
+   "registry": "https://clinicaltrials.gov/study/NCT07832552"
+  },
+  {
+   "id": "NCT06847191",
+   "kind": "status",
+   "title": "NE3107 in Adults With Neurological Symptoms of Long COVID",
+   "sponsor": "BioVie Inc.",
+   "phase": "P2",
+   "pcd": "2026-08-06",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT06847191",
+   "registry": "https://clinicaltrials.gov/study/NCT06847191"
+  },
+  {
+   "id": "NCT07832708",
+   "kind": "new",
+   "title": "Study to Assess Adverse Events and How Oral ABBV-1162 Moves Through the Body of Healthy Adults",
+   "sponsor": "AbbVie",
+   "phase": "P1",
+   "pcd": "2027-05",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07832708",
+   "registry": "https://clinicaltrials.gov/study/NCT07832708"
+  },
+  {
+   "id": "NCT07834515",
+   "kind": "new",
+   "title": "Phase 1b Clinical Study in Patients With Active Ulcerative Colitis",
+   "sponsor": "Thetis Pharmaceuticals LLC",
+   "phase": "P1",
+   "pcd": "2027-07-29",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07834515",
+   "registry": "https://clinicaltrials.gov/study/NCT07834515"
+  },
+  {
+   "id": "NCT07598890",
+   "kind": "firmed",
+   "title": "Phase I Clinical Trial of Adsorbed Tetanus Vaccine",
+   "sponsor": "Aimei Vacin BioPharm (Zhejiang) Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-06-20",
+   "what": [
+    "primary completion: 2026-12-21 \u2192 2026-06-20",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07598890",
+   "registry": "https://clinicaltrials.gov/study/NCT07598890"
+  },
+  {
+   "id": "NCT07767487",
+   "kind": "status",
+   "title": "A Study of LY4226695 in Healthy Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2027-07",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-22",
+   "url": "https://saros.gcarosso.bio/#t=NCT07767487",
+   "registry": "https://clinicaltrials.gov/study/NCT07767487"
+  },
+  {
+   "id": "NCT06693908",
+   "kind": "status",
+   "title": "A Study to Evaluate the Activity, and Safety of Vixarelimab in Participants With Moderate to Severe Active Ulcerative Colitis",
+   "sponsor": "Genentech, Inc.",
+   "phase": "P1",
+   "pcd": "2026-07-13",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06693908",
+   "registry": "https://clinicaltrials.gov/study/NCT06693908"
+  },
+  {
+   "id": "NCT06005740",
+   "kind": "new",
+   "title": "A Phase 1, First in Human Study of TORL-4-500 in Patients With Advanced Cancer",
+   "sponsor": "TORL Biotherapeutics, LLC",
+   "phase": "P1",
+   "pcd": "2027-03-29",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06005740",
+   "registry": "https://clinicaltrials.gov/study/NCT06005740"
+  },
+  {
+   "id": "NCT07830758",
+   "kind": "new",
+   "title": "Resmetirom in Patients With MASH and HFpEF",
+   "sponsor": "Madrigal Pharmaceuticals, Inc.",
+   "phase": "P1",
+   "pcd": "2027-11",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830758",
+   "registry": "https://clinicaltrials.gov/study/NCT07830758"
+  },
+  {
+   "id": "NCT07829614",
+   "kind": "new",
+   "title": "F182112 Phase Ib Clinical Study for the Treatment of Patients With Systemic Lupus Erythematosus",
+   "sponsor": "Shandong New Time Pharmaceutical Co., LTD",
+   "phase": "P1",
+   "pcd": "2027-12-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07829614",
+   "registry": "https://clinicaltrials.gov/study/NCT07829614"
+  },
+  {
+   "id": "NCT07616206",
+   "kind": "slipped",
+   "title": "Cadisegliatin as Adjunctive Therapy to Insulin in Participants With Type 1 Diabetes Who Are Using Hybrid Closed Loop (HCL) Systems",
+   "sponsor": "vTv Therapeutics",
+   "phase": "P2",
+   "pcd": "2027-06",
+   "what": [
+    "primary completion: 2027-04 \u2192 2027-06"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07616206",
+   "registry": "https://clinicaltrials.gov/study/NCT07616206"
+  },
+  {
+   "id": "NCT04320342",
+   "kind": "changed",
+   "title": "A Study Comparing Efficacy, Safety and Tolerability of the Fixed Dose Triple Combination CHF 5993 With the Fixed Dose Dual Combination CHF 1535 in Subjects With",
+   "sponsor": "Chiesi Farmaceutici S.p.A.",
+   "phase": "P3",
+   "pcd": "2026-01-12",
+   "what": [
+    "enrollment: 3433 \u2192 3406"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT04320342",
+   "registry": "https://clinicaltrials.gov/study/NCT04320342"
+  },
+  {
+   "id": "NCT07829653",
+   "kind": "new",
+   "title": "A Study to Confirm if Fezolinetant Helps to Reduce Hot Flashes in Indian Women Going Through Menopause",
+   "sponsor": "Astellas Pharma Inc",
+   "phase": "P3",
+   "pcd": "2028-03-31",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07829653",
+   "registry": "https://clinicaltrials.gov/study/NCT07829653"
+  },
+  {
+   "id": "NCT07479641",
+   "kind": "firmed",
+   "title": "A Bioequivalence Study of Two Formulations of HRS-1893 Tablets in Healthy Participants",
+   "sponsor": "Shandong Suncadia Medicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-09-14",
+   "what": [
+    "primary completion: 2026-09 \u2192 2026-09-14",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07479641",
+   "registry": "https://clinicaltrials.gov/study/NCT07479641"
+  },
+  {
+   "id": "NCT07606365",
+   "kind": "status",
+   "title": "A Study in Adults With Geographic Atrophy",
+   "sponsor": "Sitala Bio LTD",
+   "phase": "P2",
+   "pcd": "2028-07",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07606365",
+   "registry": "https://clinicaltrials.gov/study/NCT07606365"
+  },
+  {
+   "id": "NCT07395232",
+   "kind": "changed",
+   "title": "An Efficacy and Safety Study of DFL24498 in the Treatment of AKC",
+   "sponsor": "Domp\u00e9 Farmaceutici S.p.A",
+   "phase": "P3",
+   "pcd": "2027-03",
+   "what": [
+    "enrollment: 138 \u2192 153"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07395232",
+   "registry": "https://clinicaltrials.gov/study/NCT07395232"
+  },
+  {
+   "id": "NCT07643220",
+   "kind": "firmed",
+   "title": "Bioequivalence Study of AJU-G721 and G721R in Healthy Adult Volunteers Under Fasting Conditions",
+   "sponsor": "AJU Pharm Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-07-29",
+   "what": [
+    "primary completion: 2026-06 \u2192 2026-07-29",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 44 \u2192 45"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07643220",
+   "registry": "https://clinicaltrials.gov/study/NCT07643220"
+  },
+  {
+   "id": "NCT07831798",
+   "kind": "new",
+   "title": "VV-14300 for the Treatment of Type 1 Diabetes",
+   "sponsor": "Kriya Therapeutics, Inc.",
+   "phase": "P1/P2",
+   "pcd": "2028-11",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07831798",
+   "registry": "https://clinicaltrials.gov/study/NCT07831798"
+  },
+  {
+   "id": "NCT05208281",
+   "kind": "firmed",
+   "title": "A Multi-cohort Study of Safety, Efficacy, PK and PD of GNR-055 in Patients With Mucopolysaccharidosis Type II",
+   "sponsor": "AO GENERIUM",
+   "phase": "P2/P3",
+   "pcd": "2027-12-20",
+   "what": [
+    "primary completion: 2026-06 \u2192 2027-12-20",
+    "status: RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT05208281",
+   "registry": "https://clinicaltrials.gov/study/NCT05208281"
+  },
+  {
+   "id": "NCT07262346",
+   "kind": "firmed",
+   "title": "The Phase \u2160d Clinical Trial of Hydronidone Capsules",
+   "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
+   "phase": "P1",
+   "pcd": "2026-05-28",
+   "what": [
+    "primary completion: 2026-05-05 \u2192 2026-05-28",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07262346",
+   "registry": "https://clinicaltrials.gov/study/NCT07262346"
+  },
+  {
+   "id": "NCT07830329",
+   "kind": "new",
+   "title": "Efficacy and Safety of Olatorepatide Versus Placebo in Adults With Moderate to Severe Hidradenitis Suppurativa Living With Overweight or Obesity",
+   "sponsor": "Regeneron Pharmaceuticals",
+   "phase": "P2",
+   "pcd": "2028-11-24",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830329",
+   "registry": "https://clinicaltrials.gov/study/NCT07830329"
+  },
+  {
+   "id": "NCT07829588",
+   "kind": "new",
+   "title": "Pharmacokinetic (PK) Study of QL1203 and Vectibix\u00ae for the Treatment of RAS Wild-type Metastatic Colorectal Cancer",
+   "sponsor": "Qilu Pharmaceutical Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2028-02-28",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07829588",
+   "registry": "https://clinicaltrials.gov/study/NCT07829588"
+  },
+  {
+   "id": "NCT07248839",
+   "kind": "firmed",
+   "title": "A Study to Assess the Drug Levels and Safety of BMS-986435 in Participants With Normal Hepatic Function and Participants With Different Degrees of Hepatic Impai",
+   "sponsor": "Bristol-Myers Squibb",
+   "phase": "P1",
+   "pcd": "2026-08-20",
+   "what": [
+    "primary completion: 2026-08-05 \u2192 2026-08-20",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 24 \u2192 69"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07248839",
+   "registry": "https://clinicaltrials.gov/study/NCT07248839"
+  },
+  {
+   "id": "NCT07640984",
+   "kind": "status",
+   "title": "A Phase I/II Trial of JR-446 in Mucopolysaccharidosis Type IIIB (MPS IIIB)",
+   "sponsor": "JCR Pharmaceuticals Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2028-06-30",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07640984",
+   "registry": "https://clinicaltrials.gov/study/NCT07640984"
+  },
+  {
+   "id": "NCT05259709",
+   "kind": "slipped",
+   "title": "A Study of ImmunoPet Imaging Using 89Zr-DFO-REGN5054 in Adult Participants With Solid Cancers Treated With Cemiplimab",
+   "sponsor": "Regeneron Pharmaceuticals",
+   "phase": "P1",
+   "pcd": "2027-05-05",
+   "what": [
+    "primary completion: 2027-01-06 \u2192 2027-05-05"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT05259709",
+   "registry": "https://clinicaltrials.gov/study/NCT05259709"
+  },
+  {
+   "id": "NCT03339128",
+   "kind": "firmed",
+   "title": "Study to Explore the Therapeutic Effect of Eluxadoline in Treating Irritable Bowel Syndrome With Diarrhea in Children",
+   "sponsor": "AbbVie",
+   "phase": "P2",
+   "pcd": "2026-08-17",
+   "what": [
+    "primary completion: 2026-12 \u2192 2026-08-17",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 95 \u2192 272"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT03339128",
+   "registry": "https://clinicaltrials.gov/study/NCT03339128"
+  },
+  {
+   "id": "NCT07693751",
+   "kind": "status",
+   "title": "A Study to Assess Safety and Efficacy of SOT109 in Patients With Advanced Unresectable or Metastatic Colorectal Cancer",
+   "sponsor": "SOTIO Biotech a.s.",
+   "phase": "P1/P2",
+   "pcd": "2027-11-29",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07693751",
+   "registry": "https://clinicaltrials.gov/study/NCT07693751"
+  },
+  {
+   "id": "NCT07015437",
+   "kind": "slipped",
+   "title": "A Recovery and Lifespan Study Using INTERCEPT Red Blood Cells Prepared Using the INTERCEPT Blood System for RBCs With AS-1",
+   "sponsor": "Cerus Corporation",
+   "phase": "P2",
+   "pcd": "2026-12-15",
+   "what": [
+    "primary completion: 2026-07-30 \u2192 2026-12-15",
+    "enrollment: 70 \u2192 120"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07015437",
+   "registry": "https://clinicaltrials.gov/study/NCT07015437"
+  },
+  {
+   "id": "NCT07266805",
+   "kind": "changed",
+   "title": "Study of Oral Deucrictibant XR Tablet for Prophylaxis and Deucrictibant Soft Capsule for On-Demand Treatment of Angioedema Attacks in Adults With Acquired Angio",
+   "sponsor": "Pharvaris Netherlands B.V.",
+   "phase": "P3",
+   "pcd": "2027-06",
+   "what": [
+    "enrollment: 32 \u2192 48",
+    "primary outcome text: Part 1 (Prophylaxis, Double-blind Treatment Phase) \u2192 Part 1: Time-normalized number of Investigator-confirmed AAE-C1INH attacks during Treatment Phase"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07266805",
+   "registry": "https://clinicaltrials.gov/study/NCT07266805"
+  },
+  {
+   "id": "NCT07513181",
+   "kind": "status",
+   "title": "Proof of Concept Study Evaluating the Efficacy and Safety of ATH-063 Treatment in Patients With Relapsed/Refractory Moderately to Severely Active Ulcerative Col",
+   "sponsor": "Athos Therapeutics Inc",
+   "phase": "P2",
+   "pcd": "2028-12-14",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07513181",
+   "registry": "https://clinicaltrials.gov/study/NCT07513181"
+  },
+  {
+   "id": "NCT07830563",
+   "kind": "new",
+   "title": "Evaluating the Safety and Effects of AMP-101 in People With DOK7 Congenital Myasthenia Syndrome",
+   "sponsor": "Amplo Biotechnology",
+   "phase": "P1",
+   "pcd": "2028-10-01",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830563",
+   "registry": "https://clinicaltrials.gov/study/NCT07830563"
+  },
+  {
+   "id": "NCT05291091",
+   "kind": "firmed",
+   "title": "Phase 2 Study of EDG-5506 in Becker Muscular Dystrophy (GRAND CANYON)",
+   "sponsor": "Edgewise Therapeutics, Inc.",
+   "phase": "P2",
+   "pcd": "2026-09-07",
+   "what": [
+    "primary completion: 2026-09 \u2192 2026-09-07",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "primary outcome text: Number of adverse events in those treated with sevasemten or placebo \u2192 Number of treatment emergent adverse events in those treated with sevasemten or placebo"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT05291091",
+   "registry": "https://clinicaltrials.gov/study/NCT05291091"
+  },
+  {
+   "id": "NCT07830797",
+   "kind": "new",
+   "title": "Absorbable Hemostatic Fluid Gelatin Trial",
+   "sponsor": "Medprin Regenerative Medical Technologies Co., Ltd.",
+   "phase": "P3",
+   "pcd": "2026-09-08",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830797",
+   "registry": "https://clinicaltrials.gov/study/NCT07830797"
+  },
+  {
+   "id": "NCT07830342",
+   "kind": "new",
+   "title": "A Clinical Study of HS-IT101 Injection in Patients With Advanced Non-Small Cell Lung Cancer",
+   "sponsor": "Qingdao Sino-Cell Biomedicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2027-10",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07830342",
+   "registry": "https://clinicaltrials.gov/study/NCT07830342"
+  },
+  {
+   "id": "NCT07351968",
+   "kind": "firmed",
+   "title": "A Phase Ib Study to Evaluate the Efficacy and Safety of HRS-2129 in Patients With Knee Osteoarthritis",
+   "sponsor": "Shandong Suncadia Medicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-07-17",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-07-17",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED",
+    "enrollment: 200 \u2192 202"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07351968",
+   "registry": "https://clinicaltrials.gov/study/NCT07351968"
+  },
+  {
+   "id": "NCT07471217",
+   "kind": "firmed",
+   "title": "[\u00b9\u2074C] Hydronidone Mass Balance Study",
+   "sponsor": "Beijing Continent Pharmaceutical Co, Ltd.",
+   "phase": "P1",
+   "pcd": "2026-05-06",
+   "what": [
+    "primary completion: 2026-07-30 \u2192 2026-05-06",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED",
+    "enrollment: 8 \u2192 6"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07471217",
+   "registry": "https://clinicaltrials.gov/study/NCT07471217"
+  },
+  {
+   "id": "NCT07829406",
+   "kind": "new",
+   "title": "A Study to See How Safe a New Medicine (NNC0642-1895) is in Healthy People",
+   "sponsor": "Novo Nordisk A/S",
+   "phase": "P1",
+   "pcd": "2027-09-12",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07829406",
+   "registry": "https://clinicaltrials.gov/study/NCT07829406"
+  },
+  {
+   "id": "NCT06890039",
+   "kind": "slipped",
+   "title": "A-TANGO Phase 2 Study",
+   "sponsor": "Yaqrit Ltd",
+   "phase": "P2",
+   "pcd": "2028-08-31",
+   "what": [
+    "primary completion: 2026-02-28 \u2192 2028-08-31",
+    "status: NOT_YET_RECRUITING \u2192 RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06890039",
+   "registry": "https://clinicaltrials.gov/study/NCT06890039"
+  },
+  {
+   "id": "NCT07271693",
+   "kind": "slipped",
+   "title": "A Study to Determine the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of RO7806881 in Healthy Participants",
+   "sponsor": "Hoffmann-La Roche",
+   "phase": "P1",
+   "pcd": "2027-05-11",
+   "what": [
+    "primary completion: 2027-03-01 \u2192 2027-05-11"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07271693",
+   "registry": "https://clinicaltrials.gov/study/NCT07271693"
+  },
+  {
+   "id": "NCT04883957",
+   "kind": "firmed",
+   "title": "Study of BGB-11417 in Adult Participants With Mature B-cell Malignancies",
+   "sponsor": "BeiGene",
+   "phase": "P1",
+   "pcd": "2026-09-01",
+   "what": [
+    "primary completion: 2026-08-31 \u2192 2026-09-01",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT04883957",
+   "registry": "https://clinicaltrials.gov/study/NCT04883957"
+  },
+  {
+   "id": "NCT07578636",
+   "kind": "status",
+   "title": "A Study to Understand What the Body Does to the Study Medicine Called PF-07799544 When Taken by Healthy Adults",
+   "sponsor": "Pfizer",
+   "phase": "P1",
+   "pcd": "2026-07-02",
+   "what": [
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07578636",
+   "registry": "https://clinicaltrials.gov/study/NCT07578636"
+  },
+  {
+   "id": "NCT02402660",
+   "kind": "slipped",
+   "title": "Phase 2 Tolerability and Effects of ALK-001 on Stargardt Disease",
+   "sponsor": "Alkeus Pharmaceuticals, Inc.",
+   "phase": "P2",
+   "pcd": "2028-06-30",
+   "what": [
+    "primary completion: 2026-06-30 \u2192 2028-06-30",
+    "status: ENROLLING_BY_INVITATION \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT02402660",
+   "registry": "https://clinicaltrials.gov/study/NCT02402660"
+  },
+  {
+   "id": "NCT07225829",
+   "kind": "firmed",
+   "title": "A Trial to Investigate the Safety and Efficacy of Intra-articular 4P004 Injection in Subjects With Knee Synovitis and Osteoarthritis",
+   "sponsor": "4Moving Biotech",
+   "phase": "P2",
+   "pcd": "2026-08-31",
+   "what": [
+    "primary completion: 2026-08-28 \u2192 2026-08-31",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07225829",
+   "registry": "https://clinicaltrials.gov/study/NCT07225829"
+  },
+  {
+   "id": "NCT07321678",
+   "kind": "firmed",
+   "title": "A Study to Evaluate the Efficacy, Safety, and Tolerability of ASC30 Tablets in Participants With Type 2 Diabetes Mellitus",
+   "sponsor": "Ascletis Pharma (China) Co., Limited",
+   "phase": "P2",
+   "pcd": "2026-08-10",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-08-10",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07321678",
+   "registry": "https://clinicaltrials.gov/study/NCT07321678"
+  },
+  {
+   "id": "NCT07639905",
+   "kind": "firmed",
+   "title": "A Clinical Study Comparing the Bioavailability of HRS-2189 Tablets",
+   "sponsor": "Shandong Suncadia Medicine Co., Ltd.",
+   "phase": "P1",
+   "pcd": "2026-08-06",
+   "what": [
+    "primary completion: 2026-07 \u2192 2026-08-06",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: NOT_YET_RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07639905",
+   "registry": "https://clinicaltrials.gov/study/NCT07639905"
+  },
+  {
+   "id": "NCT07229716",
+   "kind": "firmed",
+   "title": "Study on the Drug Interactions of HRS-9813, Pirfenidone and Nintedanib in Healthy Subjects",
+   "sponsor": "Guangdong Hengrui Pharmaceutical Co., Ltd",
+   "phase": "P1",
+   "pcd": "2026-06-18",
+   "what": [
+    "primary completion: 2026-05 \u2192 2026-06-18",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: RECRUITING \u2192 COMPLETED"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07229716",
+   "registry": "https://clinicaltrials.gov/study/NCT07229716"
+  },
+  {
+   "id": "NCT06213506",
+   "kind": "changed",
+   "title": "A Study on the Safety, Reactogenicity, and Immune Response to the GVGH iNTS-GMMA Vaccine Against Invasive Nontyphoidal Salmonella in Adults, Children, and Infan",
+   "sponsor": "GlaxoSmithKline",
+   "phase": "P2",
+   "pcd": "2026-08-06",
+   "what": [
+    "enrollment: 183 \u2192 180"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06213506",
+   "registry": "https://clinicaltrials.gov/study/NCT06213506"
+  },
+  {
+   "id": "NCT04429087",
+   "kind": "firmed",
+   "title": "A Study to Test Different Doses of Obrixtamig in Patients With Small Cell Lung Cancer and Other Neuroendocrine Tumours That Are Positive for DLL3",
+   "sponsor": "Boehringer Ingelheim",
+   "phase": "P1",
+   "pcd": "2026-08-31",
+   "what": [
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "enrollment: 300 \u2192 306"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT04429087",
+   "registry": "https://clinicaltrials.gov/study/NCT04429087"
+  },
+  {
+   "id": "NCT07831473",
+   "kind": "new",
+   "title": "Phase I Study of VLPDEN-02 Dengue Vaccine in Healthy Adults",
+   "sponsor": "VLP Therapeutics",
+   "phase": "P1",
+   "pcd": "2028-03-15",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07831473",
+   "registry": "https://clinicaltrials.gov/study/NCT07831473"
+  },
+  {
+   "id": "NCT06867107",
+   "kind": "slipped",
+   "title": "An Open-label Long-term Follow-up Study of SAT-3247 for Participants With Duchenne Muscular Dystrophy Including Those Who Participated in SAT-3247-CL-101",
+   "sponsor": "Satellos Bioscience, Inc.",
+   "phase": "P2",
+   "pcd": "2027-09-30",
+   "what": [
+    "primary completion: 2026-08-30 \u2192 2027-09-30",
+    "enrollment: 10 \u2192 30"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06867107",
+   "registry": "https://clinicaltrials.gov/study/NCT06867107"
+  },
+  {
+   "id": "NCT06148272",
+   "kind": "firmed",
+   "title": "A Study of LY3971297 in Healthy Participants",
+   "sponsor": "Eli Lilly and Company",
+   "phase": "P1",
+   "pcd": "2026-08-18",
+   "what": [
+    "primary completion: 2026-08 \u2192 2026-08-18",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 225 \u2192 200"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06148272",
+   "registry": "https://clinicaltrials.gov/study/NCT06148272"
+  },
+  {
+   "id": "NCT07052513",
+   "kind": "slipped",
+   "title": "Modified Autologous Leukocyte Cells for the Treatment of Acute Kidney Injury After Cardiac Surgery",
+   "sponsor": "M2RLAB SL",
+   "phase": "P2",
+   "pcd": "2028-06-17",
+   "what": [
+    "primary completion: 2027-06-17 \u2192 2028-06-17",
+    "status: RECRUITING \u2192 SUSPENDED",
+    "why stopped:  \u2192 Insufficient resources to continue the study at this time (including financial and operational constraints)."
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07052513",
+   "registry": "https://clinicaltrials.gov/study/NCT07052513"
+  },
+  {
+   "id": "NCT07277582",
+   "kind": "changed",
+   "title": "Evaluation of the Efficacy and Safety of THRV-1268 in Participants With Long QT Syndrome Type 2 (LQTS2) and Type 3 (LQTS3)",
+   "sponsor": "Thryv Therapeutics, Inc.",
+   "phase": "P2/P3",
+   "pcd": "2027-06-30",
+   "what": [
+    "enrollment: 64 \u2192 84"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07277582",
+   "registry": "https://clinicaltrials.gov/study/NCT07277582"
+  },
+  {
+   "id": "NCT04239625",
+   "kind": "slipped",
+   "title": "Open-Label Extension: Tolerability and Effects of ALK-001 on Stargardt Disease (TEASE)",
+   "sponsor": "Alkeus Pharmaceuticals, Inc.",
+   "phase": "P2",
+   "pcd": "2028-12",
+   "what": [
+    "primary completion: 2026-12 \u2192 2028-12"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT04239625",
+   "registry": "https://clinicaltrials.gov/study/NCT04239625"
+  },
+  {
+   "id": "NCT06169579",
+   "kind": "new",
+   "title": "An Open-label, Phase 1 Study to Determine the Maximum Tolerated Dose of ND-003 in Patients With Advanced Solid Cancers",
+   "sponsor": "Shenzhen NewDEL Biotech, Co., Ltd",
+   "phase": "P1",
+   "pcd": "2028-06",
+   "what": [
+    "new in the registry"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06169579",
+   "registry": "https://clinicaltrials.gov/study/NCT06169579"
+  },
+  {
+   "id": "NCT06465186",
+   "kind": "firmed",
+   "title": "A Clinical Study of Efinopegdutide in People With Compensated Cirrhosis Due to Steatohepatitis (MK-6024-017)",
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "phase": "P2",
+   "pcd": "2026-08-03",
+   "what": [
+    "primary completion: 2026-08-06 \u2192 2026-08-03",
+    "date type: ESTIMATED \u2192 ACTUAL",
+    "status: ACTIVE_NOT_RECRUITING \u2192 COMPLETED",
+    "enrollment: 80 \u2192 85"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06465186",
+   "registry": "https://clinicaltrials.gov/study/NCT06465186"
+  },
+  {
+   "id": "NCT07360275",
+   "kind": "status",
+   "title": "A Study of VCT220 in Participants With Hypertension and Obesity or Overweight",
+   "sponsor": "Vincentage Pharma Co., Ltd",
+   "phase": "P2",
+   "pcd": "2026-10-30",
+   "what": [
+    "primary completion: 2026-10-20 \u2192 2026-10-30",
+    "status: NOT_YET_RECRUITING \u2192 ACTIVE_NOT_RECRUITING"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT07360275",
+   "registry": "https://clinicaltrials.gov/study/NCT07360275"
+  },
+  {
+   "id": "NCT06040099",
+   "kind": "firmed",
+   "title": "A US Study to Evaluate Transarterial Radioembolization (TARE) in Combination With Durvalumab and Bevacizumab Therapy in People With Unresectable Hepatocellular ",
+   "sponsor": "AstraZeneca",
+   "phase": "P2",
+   "pcd": "2026-06-30",
+   "what": [
+    "primary completion: 2026-07-01 \u2192 2026-06-30",
+    "date type: ESTIMATED \u2192 ACTUAL"
+   ],
+   "date": "2026-09-21",
+   "url": "https://saros.gcarosso.bio/#t=NCT06040099",
+   "registry": "https://clinicaltrials.gov/study/NCT06040099"
+  },
+  {
+   "id": "IRD",
+   "kind": "regulatory",
+   "title": "Opus Genetics, Inc. \u00b7 Phentolamine \u00b7 2026-12-31",
+   "sponsor": "Opus Genetics, Inc.",
+   "what": [
+    "2027-03-31 \u2192 2026-12-31"
+   ],
+   "date": "2026-09-11",
+   "url": "https://saros.gcarosso.bio/#tab=fda",
+   "registry": "https://www.sec.gov/Archives/edgar/data/1228627/000114036126036277/ef20081922_ex99-1.htm"
+  },
+  {
+   "id": "COGT",
+   "kind": "regulatory",
+   "title": "Cogent Biosciences, Inc. \u00b7 bezuclastinib \u00b7 2026-12-30",
+   "sponsor": "Cogent Biosciences, Inc.",
+   "what": [
+    "2026-11-30 \u2192 2026-12-30"
+   ],
+   "date": "2026-08-10",
+   "url": "https://saros.gcarosso.bio/#tab=fda",
+   "registry": "https://www.sec.gov/Archives/edgar/data/1622229/000119312526341315/cogt-ex99_1.htm"
+  },
+  {
+   "id": "MRK",
+   "kind": "regulatory",
+   "title": "Merck & Co., Inc. \u00b7 pdufa \u00b7 2026-10-10",
+   "sponsor": "Merck & Co., Inc.",
+   "what": [
+    "2026-10-04 \u2192 2026-10-10"
+   ],
+   "date": "2026-08-07",
+   "url": "https://saros.gcarosso.bio/#tab=fda",
+   "registry": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000212/mrk-20260630.htm"
+  },
+  {
+   "id": "PRAX",
+   "kind": "regulatory",
+   "title": "Praxis Precision Medicines, Inc. \u00b7 relutrigine \u00b7 2026-12-27",
+   "sponsor": "Praxis Precision Medicines, Inc.",
+   "what": [
+    "2026-09-27 \u2192 2026-12-27"
+   ],
+   "date": "2026-08-06",
+   "url": "https://saros.gcarosso.bio/#tab=fda",
+   "registry": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000083/prax-20260630.htm"
+  },
+  {
+   "id": "NCT06542445",
+   "kind": "status",
+   "title": "The Safety and Efficacy of Terpene-enriched Cannabidiol (CBD) Oil in ADHD",
+   "sponsor": "Bazelet Nehushtan LtD.",
+   "phase": "P2",
+   "pcd": "2026-08-22",
+   "what": [
+    "status: RECRUITING \u2192 UNKNOWN"
+   ],
+   "date": "2024-08-23",
+   "url": "https://saros.gcarosso.bio/#t=NCT06542445",
+   "registry": "https://clinicaltrials.gov/study/NCT06542445"
+  },
+  {
+   "id": "NCT05055791",
+   "kind": "status",
+   "title": "A Study to Evaluate the Safety and Tolerance of SYHX1903 in Patients With Relapsed/Refractory Hematologic Malignancies",
+   "sponsor": "CSPC ZhongQi Pharmaceutical Technology Co., Ltd.",
+   "phase": "P1/P2",
+   "pcd": "2026-06-20",
+   "what": [
+    "status: NOT_YET_RECRUITING \u2192 UNKNOWN"
+   ],
+   "date": "2021-09-24",
+   "url": "https://saros.gcarosso.bio/#t=NCT05055791",
+   "registry": "https://clinicaltrials.gov/study/NCT05055791"
+  }
+ ]
+}

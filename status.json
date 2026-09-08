@@ -1,0 +1,79 @@
+{
+ "built": "2026-11-20T15:38:35.136186Z",
+ "loaders": {
+  "trials": {
+   "pulled": "2026-11-20T15:30:20.084195Z",
+   "rows": 10807,
+   "source": "ClinicalTrials.gov API v2"
+  },
+  "fda": {
+   "pulled": "2026-11-20T15:30:28.377933Z",
+   "rows": 9032,
+   "source": "openFDA Drugs@FDA"
+  },
+  "sec": {
+   "pulled": "2026-11-16T14:00:58Z",
+   "rows": 510,
+   "source": "SEC company tickers + XBRL frames"
+  },
+  "facts": {
+   "pulled": "2026-11-16T14:11:39Z",
+   "rows": 434,
+   "source": "SEC XBRL companyfacts per matched issuer"
+  },
+  "reg": {
+   "pulled": "2026-11-20T15:32:23Z",
+   "rows": 116,
+   "source": "SEC EDGAR full-text search (PDUFA / AdCom / resubmission)"
+  },
+  "f13": {
+   "pulled": "2026-11-16T14:03:15Z",
+   "rows": 30,
+   "source": "SEC 13F-HR information tables"
+  },
+  "ins": {
+   "pulled": "2026-11-16T14:03:32Z",
+   "rows": 244,
+   "source": "SEC insider-transactions data sets"
+  },
+  "short": {
+   "pulled": "2026-11-16T14:03:32Z",
+   "rows": 470,
+   "source": "FINRA consolidated short interest"
+  },
+  "formd": {
+   "pulled": "2026-11-16T14:05:41Z",
+   "rows": 390,
+   "source": "SEC Form D data sets"
+  },
+  "nih": {
+   "pulled": "2026-11-16T14:06:16Z",
+   "rows": 388,
+   "source": "NIH RePORTER"
+  },
+  "px": {
+   "pulled": "2026-11-20T15:36:09Z",
+   "rows": 435,
+   "source": "last close, Yahoo chart / Nasdaq quote (unofficial)"
+  },
+  "subs": {
+   "pulled": "2026-11-20T15:32:24Z",
+   "rows": 436,
+   "source": "SEC EDGAR submissions per matched issuer"
+  },
+  "hist": {
+   "pulled": "2026-11-20T15:37:23Z",
+   "rows": 0,
+   "source": "ClinicalTrials.gov version history, changed trials only"
+  },
+  "guid": {
+   "pulled": "2026-11-16T14:21:49Z",
+   "rows": 534,
+   "source": "SEC EDGAR full-text search, company-guided milestones (8-K / 6-K)"
+  }
+ },
+ "kpi": {
+  "p3_180": 508,
+  "sec_issuers": 436
+ }
+}

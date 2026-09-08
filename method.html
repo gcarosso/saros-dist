@@ -4,17 +4,47 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SAROS clinical trial readout calendar — method</title>
-<meta name="description" content="SAROS is a clinical trial readout calendar: every industry Phase 1–3 trial on ClinicalTrials.gov with a primary-completion date in 2026–2028, joined to sponsor cash and runway, specialist holders, insider trades, FDA dates and private funding from SEC EDGAR. Public sources only, refreshed weekly.">
+<meta name="description" content="SAROS compares programs, not molecules. A public ledger of clinical readouts — dates, sponsors, and signals — combining a large, filterable 2026–2028 landscape of thousands of trials (area × phase × modality, geography, sponsor domicile) with transparent heuristics and contextual financing signals, plus longevity and private-sponsor slices. Strictly public-data and non-advisory.">
 <link rel="canonical" href="https://saros.gcarosso.bio/method">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="SAROS">
 <meta property="og:title" content="SAROS clinical trial readout calendar — method">
-<meta property="og:description" content="SAROS is a clinical trial readout calendar: every industry Phase 1–3 trial on ClinicalTrials.gov with a primary-completion date in 2026–2028, joined to sponsor cash and runway, specialist holders, insider trades, FDA dates and private funding from SEC EDGAR. Public sources only, refreshed weekly.">
+<meta property="og:description" content="SAROS compares programs, not molecules. A public ledger of clinical readouts — dates, sponsors, and signals — combining a large, filterable 2026–2028 landscape of thousands of trials (area × phase × modality, geography, sponsor domicile) with transparent heuristics and contextual financing signals, plus longevity and private-sponsor slices. Strictly public-data and non-advisory.">
 <meta property="og:url" content="https://saros.gcarosso.bio/method">
-<meta property="og:image" content="https://saros.gcarosso.bio/og-saros.png">
+<meta property="og:image" content="https://saros.gcarosso.bio/og-saros.png?v=2">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.png">
 <link rel="author" href="https://gcarosso.bio/">
+<meta name="author" content="Giovanni Carosso">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebApplication",
+ "@id": "https://saros.gcarosso.bio/#app",
+ "name": "SAROS",
+ "alternateName": "SAROS clinical trial readout calendar",
+ "url": "https://saros.gcarosso.bio/",
+ "description": "SAROS compares programs, not molecules: a public ledger of clinical readouts, 2026–2028, built from ClinicalTrials.gov and SEC filings. Public data only, non-advisory.",
+ "applicationCategory": "Research tool",
+ "operatingSystem": "Any (browser)",
+ "isAccessibleForFree": true,
+ "license": "https://www.apache.org/licenses/LICENSE-2.0",
+ "codeRepository": "https://github.com/gcarosso/saros",
+ "author": {
+  "@type": "Person",
+  "@id": "https://gcarosso.bio/#person",
+  "name": "Giovanni Carosso",
+  "url": "https://gcarosso.bio/"
+ },
+ "creator": {
+  "@id": "https://gcarosso.bio/#person"
+ },
+ "copyrightHolder": {
+  "@id": "https://gcarosso.bio/#person"
+ },
+ "copyrightYear": 2026
+}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -51,7 +81,7 @@ p b{color:var(--ink);font-weight:500}
 <p><b>Build a landscape without starting another spreadsheet.</b> Filter by phase, indication, modality, target, sponsor type, enrollment, or date window. The calendar, charts, and trial list work from the same selection, so you can move from a broad question to the individual studies behind it. An investor can assemble a list for diligence; a research team can see which approaches are already being tested and where its own program sits.</p>
 <p><b>Follow a trial into its company context.</b> Open a dossier to put the study design and mechanism beside available financial, ownership, and regulatory records. This cuts down the repeated work of finding the sponsor, resolving its corporate name, and collecting the same filings. The source links remain available for checking the associations and reading the detail.</p>
 <p><b>Find related programs.</b> Target and mechanism tags let you search across records whose titles use different drug names or development codes. Programs &amp; peers compares sponsors by their registered trial portfolios. That is a useful starting set for a closer comparison of mechanisms, populations, and endpoints; similarity in a trial portfolio does not establish therapeutic equivalence.</p>
-<p><b>Review changes rather than rereading the whole registry.</b> Successive snapshots identify new records and changes in dates or status. Watchlists keep a set of trials together, and CSV export carries the selected rows into your own analysis. Live refresh updates registry records when available; financial and ownership data retain their own reporting periods.</p>
+<p><b>Review changes rather than rereading the whole registry.</b> A daily job re-pulls the registry, regulatory dates, filings and prices against Monday's snapshot, so the diff accumulates through the week: new records, moved dates, status changes, and changed primary-outcome text, with the registry versions the sponsor saved since. The same list is published as <a href="/changes.json">changes.json</a> and an RSS feed at <a href="/changes.xml">changes.xml</a>. Watchlists keep a set of trials together, and CSV export carries the selected rows into your own analysis.</p>
 <p>The time saving comes from reusing the search, matching, filtering, and comparison work. SAROS gets the relevant records onto the same screen so more of the effort can go toward interpreting them.</p>
 
 <h2>How it compares with other tools</h2>
@@ -59,7 +89,7 @@ p b{color:var(--ink);font-weight:500}
 <table class="cmp">
 <tr><th>Tool or workflow</th><th>What overlaps</th><th>Where the scope differs</th></tr>
 <tr><td>ClinicalTrials.gov, EDGAR, NIH RePORTER, and a spreadsheet</td><td>Trial searches, filing lookups, sponsor matching, and lists of programs to follow</td><td>SAROS combines the covered records and carries a selection between views. The original sources remain the place to verify a result and read the full record.</td></tr>
-<tr><td><a href="https://www.benzinga.com/fda-calendar/estimated-dates" rel="noopener">Benzinga's FDA calendar</a></td><td>Browsing upcoming regulatory events by company and drug</td><td>SAROS adds a registry-based trial landscape and sponsor context. Its main date field is primary completion, which must be distinguished from an announced catalyst.</td></tr>
+<tr><td><a href="https://www.benzinga.com/fda-calendar/estimated-dates" rel="noopener">Benzinga's FDA calendar</a></td><td>Browsing upcoming regulatory events by company and drug</td><td>SAROS adds a registry-based trial landscape, sponsor context, and the dates companies guide to in their own 8-K and 6-K filings. Its main date field is primary completion, which must be distinguished from an announced catalyst.</td></tr>
 <tr><td><a href="https://www.evaluate.com/solutions/biomedtracker/" rel="noopener">Biomedtracker</a></td><td>Exploring development programs and clinical or regulatory events</td><td>Biomedtracker includes proprietary approval metrics and analyst commentary. SAROS uses public records and explicit heuristics; it does not reproduce that analytical coverage.</td></tr>
 <tr><td><a href="https://www.citeline.com/en/products-services/clinical/trialtrove" rel="noopener">Citeline Trialtrove</a></td><td>Filtering trials and comparing the clinical landscape</td><td>Trialtrove provides curated intelligence for trial planning and benchmarking. SAROS offers a narrower view of registered studies within its date window, connected to company records.</td></tr>
 <tr><td><a href="https://pitchbook.com/products/desktop" rel="noopener">PitchBook</a></td><td>Looking at companies, investors, and financing activity</td><td>SAROS surfaces available Form D filings, NIH awards, and selected public-market holdings. It does not supply a comprehensive private-market database, valuations, or cap tables.</td></tr>
@@ -70,24 +100,29 @@ p b{color:var(--ink);font-weight:500}
 <p><b>Readout.</b> The calendar uses the registered primary-completion date: the completion of data collection for the primary outcome measures. A company may report interim results earlier or publish its main analysis later. An <code>ACTUAL</code> registry date confirms the recorded completion event, not an announcement date. Month-only dates and concentrations at half-year boundaries warrant checking against company guidance.</p>
 <p><b>Regulatory events.</b> PDUFA, advisory-committee, and resubmission events are extracted from company filings, with links to the source passages. Check the asset, indication, and event in the filing; an extracted date can be associated with the wrong nearby drug name.</p>
 <p><b>Confidence.</b> A rules-based score summarizing evidence about the registered date. It is not a calibrated probability that results will arrive on schedule or that the trial will succeed.</p>
-<p><b>Prior.</b> An approximate historical phase-transition rate, separating oncology from non-oncology. It describes advancement from a phase, not necessarily the cumulative probability of approval. The rNPV sketch is editable; its approval probability and commercial assumptions need to be set for the question being modeled.</p>
-<p><b>Financial context.</b> Cash, short-term investments, income, R&amp;D spending, and public float come from SEC records where a sponsor can be matched. Public float is a dated proxy for company size, not a live market capitalization. The current runway calculation divides available cash and short-term investments by an annualized accounting loss; it is a rough screen rather than a cash-flow forecast.</p>
-<p><b>Impact and Action.</b> These summarize an ordered set of rules over the available inputs. They help identify records to examine, but do not incorporate a complete assessment of trial quality, valuation, or portfolio exposure.</p>
+<p><b>Prior.</b> An approximate historical phase-transition rate, separating oncology from non-oncology. It describes advancement from a phase, not the cumulative probability of approval; the rNPV sketch is pre-filled with that cumulative figure instead, and it is editable, so its approval probability and commercial assumptions need to be set for the question being modeled.</p>
+<p><b>Financial context.</b> Cash and investments come from the company's own XBRL facts at one balance-sheet date, counting every investment tag the filer uses; the dossier names the tags and the period. Burn is operating cash flow annualized from the year-to-date figure in the same filing, with the fiscal-year figure and then the annualized net loss as labelled fallbacks. Debt is shown beside cash and is not netted from it. Filings after the balance-sheet date, including financings, are listed but are not in the cash figure. Market cap is a dated last close from an unofficial quote endpoint times cover-page shares; where no quote is available the SEC public float is shown instead and marked as such.</p>
+<p><b>Impact and flags.</b> Impact is an ordered rule score over phase, prior, size, date firmness, and crowding. The flag column shows the first rule that fired for a record: Stopped, Cash flag, Date passed, Date unconfirmed, Date slipped, Specialist adds, Insider buys, Enrollment lag, Pivotal with an actual date, Pivotal inside six months, or No flag. They are descriptive labels for triage, not position recommendations, and their false-positive rates are not yet measured; a labelled evaluation is the next piece of work.</p>
 
 <h2>Sources and refresh</h2>
 <table>
 <tr><th>Source</th><th>Used for</th></tr>
 <tr><td>ClinicalTrials.gov API v2</td><td>Trial dates, status, design, enrollment, sites, interventions, and summaries</td></tr>
 <tr><td>SEC EDGAR filings</td><td>Disclosed regulatory events and their supporting passages</td></tr>
-<tr><td>SEC XBRL data</td><td>Available financial statements, public float, and share counts</td></tr>
+<tr><td>SEC XBRL company facts</td><td>Cash, every investment tag the filer uses, debt, year-to-date operating cash flow, shares, and public float, one document per matched issuer</td></tr>
+<tr><td>SEC EDGAR submissions</td><td>Financing forms, ownership schedules, 8-Ks, and periodic reports filed since the balance sheet</td></tr>
+<tr><td>SEC EDGAR full-text search (8-K, 6-K)</td><td>Company-guided milestones: dated sentences about topline data, interim analyses, enrollment, and study starts</td></tr>
 <tr><td>SEC 13F filings</td><td>Reported holdings of the selected funds covered by SAROS</td></tr>
+<tr><td>FINRA short interest</td><td>Shares short and days to cover at the latest settlement</td></tr>
+<tr><td>ClinicalTrials.gov version history</td><td>Registry versions saved since the weekly snapshot, for changed trials</td></tr>
+<tr><td>Yahoo chart and Nasdaq quote endpoints</td><td>Last close, dated; unofficial, used for market cap only</td></tr>
 <tr><td>SEC insider-transaction datasets</td><td>Reported open-market purchases and sales</td></tr>
 <tr><td>SEC Form D datasets</td><td>Disclosed securities offerings, amounts sold, and related filing details</td></tr>
 <tr><td>NIH RePORTER</td><td>Research awards associated with matched organizations</td></tr>
 <tr><td>openFDA Drugs@FDA</td><td>Approval actions</td></tr>
 <tr><td>Wong, Siah &amp; Lo (2019)</td><td>Historical phase-transition reference rates</td></tr>
 </table>
-<p>The published build refreshes weekly, using the available source datasets. The in-app Method tab identifies queries and retrieval dates. Reporting periods still matter: a newly retrieved quarterly holding is a record of that quarter, and a Form D filing describes a disclosed offering rather than a company's complete financing history.</p>
+<p>The registry, regulatory calendar, filings, prices, and version history are re-pulled daily; the full build, including company facts, ownership, insiders, Form D, NIH awards, and guided milestones, is rebuilt weekly. The in-app Method tab opens with a table of what each loader last pulled and how many rows reached the build. Reporting periods still matter: a newly retrieved quarterly holding is a record of that quarter, and a Form D filing describes a disclosed offering rather than a company's complete financing history.</p>
 <p>Coverage depends on registration, disclosure, and successful matching. Missing information can mean no public record, a record outside the dataset, or an unresolved association. It should not be read as proof that a company has no funding, no investors, or no competing program.</p>
 
 <h2>Why SAROS</h2>
